@@ -113,7 +113,9 @@ Epicuro no prometía una vida sin dolor, sino una vida en la que el dolor no nos
 
 Si la soledad se mezcla con la ansiedad de las pantallas, te puede ayudar nuestro ensayo sobre [la ansiedad digital desde el zen](/ensayos/ansiedad-digital-zen). Encontrarás más reflexiones en la sección de [soledad y vínculos](/temas/soledad-y-vinculos).
 
-Para leer a Epicuro directamente, la *Carta a Meneceo* es breve y clara. Puedes encontrar traducciones en bibliotecas y en la [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/). El poema *De la naturaleza de las cosas* de Lucrecio, su gran discípulo romano, ofrece una visión más amplia del sistema.`,
+Para leer a Epicuro directamente, la *Carta a Meneceo* es breve y clara. Puedes encontrar traducciones en bibliotecas y en la [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/). El poema *De la naturaleza de las cosas* de Lucrecio, su gran discípulo romano, ofrece una visión más amplia del sistema.
+
+Recuerda que no hace falta tener muchos amigos para vivir bien acompañado. Epicuro vivía rodeado de un círculo pequeño y fiel. Lo que cuenta no es el número de nombres en tu agenda, sino la certeza de que algunos de ellos responderían si llamaras.`,
 };
 
 export default post;

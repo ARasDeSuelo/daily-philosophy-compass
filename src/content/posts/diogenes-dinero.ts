@@ -115,7 +115,9 @@ Cuatro acciones concretas para la próxima semana:
 
 Diógenes no pretendía que todos vivieran en un tonel. Pretendía que dejaran de creer que la felicidad estaba en la siguiente compra. Esa sigue siendo una de las ideas más subversivas que puedes llevar contigo al centro comercial.
 
-Si la presión económica se mezcla con el agotamiento laboral, te puede ayudar nuestro ensayo sobre [estoicismo y burnout](/ensayos/estoicismo-contra-el-burnout). Encontrarás más reflexiones en la sección de [dinero y ambición](/temas/dinero-y-ambicion).`,
+Si la presión económica se mezcla con el agotamiento laboral, te puede ayudar nuestro ensayo sobre [estoicismo y burnout](/ensayos/estoicismo-contra-el-burnout). Encontrarás más reflexiones en la sección de [dinero y ambición](/temas/dinero-y-ambicion).
+
+Una última idea para llevarte: la pregunta de cuánto es suficiente no tiene una respuesta universal, y nadie puede contestarla por ti. Lo que el cinismo te ofrece no es una cifra, sino un hábito: el de detenerte antes de comprar y preguntarte quién está decidiendo realmente, si tú o la costumbre. Repetida durante meses, esa pequeña pausa puede cambiar mucho más que tu cuenta bancaria. Puede cambiar la forma en que entiendes tu propia libertad.`,
 };
 
 export default post;
