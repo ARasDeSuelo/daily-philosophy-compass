@@ -10,6 +10,14 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AdsDottxtRouteImport } from './routes/ads[.]txt'
+import { Route as AvisoLegalRouteImport } from './routes/aviso-legal'
+import { Route as ContactoRouteImport } from './routes/contacto'
+import { Route as CookiesRouteImport } from './routes/cookies'
+import { Route as FeedDotxmlRouteImport } from './routes/feed[.]xml'
+import { Route as PrivacidadRouteImport } from './routes/privacidad'
+import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
+import { Route as SobreRouteImport } from './routes/sobre'
 import { Route as EnsayosIndexRouteImport } from './routes/ensayos.index'
 import { Route as EnsayosSlugRouteImport } from './routes/ensayos.$slug'
 import { Route as EscuelasIndexRouteImport } from './routes/escuelas.index'
@@ -20,6 +28,46 @@ import { Route as TemasTemaRouteImport } from './routes/temas.$tema'
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AdsDottxtRoute = AdsDottxtRouteImport.update({
+  id: '/ads.txt',
+  path: '/ads.txt',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AvisoLegalRoute = AvisoLegalRouteImport.update({
+  id: '/aviso-legal',
+  path: '/aviso-legal',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ContactoRoute = ContactoRouteImport.update({
+  id: '/contacto',
+  path: '/contacto',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CookiesRoute = CookiesRouteImport.update({
+  id: '/cookies',
+  path: '/cookies',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const FeedDotxmlRoute = FeedDotxmlRouteImport.update({
+  id: '/feed.xml',
+  path: '/feed.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PrivacidadRoute = PrivacidadRouteImport.update({
+  id: '/privacidad',
+  path: '/privacidad',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
+  id: '/sitemap.xml',
+  path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SobreRoute = SobreRouteImport.update({
+  id: '/sobre',
+  path: '/sobre',
   getParentRoute: () => rootRouteImport,
 } as any)
 const EnsayosIndexRoute = EnsayosIndexRouteImport.update({
@@ -55,6 +103,14 @@ const TemasTemaRoute = TemasTemaRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/ads.txt': typeof AdsDottxtRoute
+  '/aviso-legal': typeof AvisoLegalRoute
+  '/contacto': typeof ContactoRoute
+  '/cookies': typeof CookiesRoute
+  '/feed.xml': typeof FeedDotxmlRoute
+  '/privacidad': typeof PrivacidadRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/sobre': typeof SobreRoute
   '/ensayos/$slug': typeof EnsayosSlugRoute
   '/escuelas/$escuela': typeof EscuelasEscuelaRoute
   '/temas/$tema': typeof TemasTemaRoute
@@ -64,6 +120,14 @@ export interface FileRoutesByFullPath {
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/ads.txt': typeof AdsDottxtRoute
+  '/aviso-legal': typeof AvisoLegalRoute
+  '/contacto': typeof ContactoRoute
+  '/cookies': typeof CookiesRoute
+  '/feed.xml': typeof FeedDotxmlRoute
+  '/privacidad': typeof PrivacidadRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/sobre': typeof SobreRoute
   '/ensayos/$slug': typeof EnsayosSlugRoute
   '/escuelas/$escuela': typeof EscuelasEscuelaRoute
   '/temas/$tema': typeof TemasTemaRoute
@@ -74,6 +138,14 @@ export interface FileRoutesByTo {
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/ads.txt': typeof AdsDottxtRoute
+  '/aviso-legal': typeof AvisoLegalRoute
+  '/contacto': typeof ContactoRoute
+  '/cookies': typeof CookiesRoute
+  '/feed.xml': typeof FeedDotxmlRoute
+  '/privacidad': typeof PrivacidadRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/sobre': typeof SobreRoute
   '/ensayos/$slug': typeof EnsayosSlugRoute
   '/escuelas/$escuela': typeof EscuelasEscuelaRoute
   '/temas/$tema': typeof TemasTemaRoute
@@ -85,6 +157,14 @@ export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/ads.txt'
+    | '/aviso-legal'
+    | '/contacto'
+    | '/cookies'
+    | '/feed.xml'
+    | '/privacidad'
+    | '/sitemap.xml'
+    | '/sobre'
     | '/ensayos/$slug'
     | '/escuelas/$escuela'
     | '/temas/$tema'
@@ -94,6 +174,14 @@ export interface FileRouteTypes {
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
+    | '/ads.txt'
+    | '/aviso-legal'
+    | '/contacto'
+    | '/cookies'
+    | '/feed.xml'
+    | '/privacidad'
+    | '/sitemap.xml'
+    | '/sobre'
     | '/ensayos/$slug'
     | '/escuelas/$escuela'
     | '/temas/$tema'
@@ -103,6 +191,14 @@ export interface FileRouteTypes {
   id:
     | '__root__'
     | '/'
+    | '/ads.txt'
+    | '/aviso-legal'
+    | '/contacto'
+    | '/cookies'
+    | '/feed.xml'
+    | '/privacidad'
+    | '/sitemap.xml'
+    | '/sobre'
     | '/ensayos/$slug'
     | '/escuelas/$escuela'
     | '/temas/$tema'
@@ -113,6 +209,14 @@ export interface FileRouteTypes {
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AdsDottxtRoute: typeof AdsDottxtRoute
+  AvisoLegalRoute: typeof AvisoLegalRoute
+  ContactoRoute: typeof ContactoRoute
+  CookiesRoute: typeof CookiesRoute
+  FeedDotxmlRoute: typeof FeedDotxmlRoute
+  PrivacidadRoute: typeof PrivacidadRoute
+  SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  SobreRoute: typeof SobreRoute
   EnsayosSlugRoute: typeof EnsayosSlugRoute
   EscuelasEscuelaRoute: typeof EscuelasEscuelaRoute
   TemasTemaRoute: typeof TemasTemaRoute
@@ -128,6 +232,62 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/ads.txt': {
+      id: '/ads.txt'
+      path: '/ads.txt'
+      fullPath: '/ads.txt'
+      preLoaderRoute: typeof AdsDottxtRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/aviso-legal': {
+      id: '/aviso-legal'
+      path: '/aviso-legal'
+      fullPath: '/aviso-legal'
+      preLoaderRoute: typeof AvisoLegalRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/contacto': {
+      id: '/contacto'
+      path: '/contacto'
+      fullPath: '/contacto'
+      preLoaderRoute: typeof ContactoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/cookies': {
+      id: '/cookies'
+      path: '/cookies'
+      fullPath: '/cookies'
+      preLoaderRoute: typeof CookiesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/feed.xml': {
+      id: '/feed.xml'
+      path: '/feed.xml'
+      fullPath: '/feed.xml'
+      preLoaderRoute: typeof FeedDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/privacidad': {
+      id: '/privacidad'
+      path: '/privacidad'
+      fullPath: '/privacidad'
+      preLoaderRoute: typeof PrivacidadRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/sitemap.xml': {
+      id: '/sitemap.xml'
+      path: '/sitemap.xml'
+      fullPath: '/sitemap.xml'
+      preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/sobre': {
+      id: '/sobre'
+      path: '/sobre'
+      fullPath: '/sobre'
+      preLoaderRoute: typeof SobreRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/ensayos/': {
@@ -177,6 +337,14 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AdsDottxtRoute: AdsDottxtRoute,
+  AvisoLegalRoute: AvisoLegalRoute,
+  ContactoRoute: ContactoRoute,
+  CookiesRoute: CookiesRoute,
+  FeedDotxmlRoute: FeedDotxmlRoute,
+  PrivacidadRoute: PrivacidadRoute,
+  SitemapDotxmlRoute: SitemapDotxmlRoute,
+  SobreRoute: SobreRoute,
   EnsayosSlugRoute: EnsayosSlugRoute,
   EscuelasEscuelaRoute: EscuelasEscuelaRoute,
   TemasTemaRoute: TemasTemaRoute,
