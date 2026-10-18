@@ -10,33 +10,115 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as EnsayosIndexRouteImport } from './routes/ensayos.index'
+import { Route as EnsayosSlugRouteImport } from './routes/ensayos.$slug'
+import { Route as EscuelasIndexRouteImport } from './routes/escuelas.index'
+import { Route as EscuelasEscuelaRouteImport } from './routes/escuelas.$escuela'
+import { Route as TemasIndexRouteImport } from './routes/temas.index'
+import { Route as TemasTemaRouteImport } from './routes/temas.$tema'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const EnsayosIndexRoute = EnsayosIndexRouteImport.update({
+  id: '/ensayos/',
+  path: '/ensayos/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EnsayosSlugRoute = EnsayosSlugRouteImport.update({
+  id: '/ensayos/$slug',
+  path: '/ensayos/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EscuelasIndexRoute = EscuelasIndexRouteImport.update({
+  id: '/escuelas/',
+  path: '/escuelas/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EscuelasEscuelaRoute = EscuelasEscuelaRouteImport.update({
+  id: '/escuelas/$escuela',
+  path: '/escuelas/$escuela',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TemasIndexRoute = TemasIndexRouteImport.update({
+  id: '/temas/',
+  path: '/temas/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TemasTemaRoute = TemasTemaRouteImport.update({
+  id: '/temas/$tema',
+  path: '/temas/$tema',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/ensayos/$slug': typeof EnsayosSlugRoute
+  '/escuelas/$escuela': typeof EscuelasEscuelaRoute
+  '/temas/$tema': typeof TemasTemaRoute
+  '/ensayos/': typeof EnsayosIndexRoute
+  '/escuelas/': typeof EscuelasIndexRoute
+  '/temas/': typeof TemasIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/ensayos/$slug': typeof EnsayosSlugRoute
+  '/escuelas/$escuela': typeof EscuelasEscuelaRoute
+  '/temas/$tema': typeof TemasTemaRoute
+  '/ensayos': typeof EnsayosIndexRoute
+  '/escuelas': typeof EscuelasIndexRoute
+  '/temas': typeof TemasIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/ensayos/$slug': typeof EnsayosSlugRoute
+  '/escuelas/$escuela': typeof EscuelasEscuelaRoute
+  '/temas/$tema': typeof TemasTemaRoute
+  '/ensayos/': typeof EnsayosIndexRoute
+  '/escuelas/': typeof EscuelasIndexRoute
+  '/temas/': typeof TemasIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    | '/'
+    | '/ensayos/$slug'
+    | '/escuelas/$escuela'
+    | '/temas/$tema'
+    | '/ensayos/'
+    | '/escuelas/'
+    | '/temas/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to:
+    | '/'
+    | '/ensayos/$slug'
+    | '/escuelas/$escuela'
+    | '/temas/$tema'
+    | '/ensayos'
+    | '/escuelas'
+    | '/temas'
+  id:
+    | '__root__'
+    | '/'
+    | '/ensayos/$slug'
+    | '/escuelas/$escuela'
+    | '/temas/$tema'
+    | '/ensayos/'
+    | '/escuelas/'
+    | '/temas/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  EnsayosSlugRoute: typeof EnsayosSlugRoute
+  EscuelasEscuelaRoute: typeof EscuelasEscuelaRoute
+  TemasTemaRoute: typeof TemasTemaRoute
+  EnsayosIndexRoute: typeof EnsayosIndexRoute
+  EscuelasIndexRoute: typeof EscuelasIndexRoute
+  TemasIndexRoute: typeof TemasIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +130,59 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/ensayos/': {
+      id: '/ensayos/'
+      path: '/ensayos'
+      fullPath: '/ensayos/'
+      preLoaderRoute: typeof EnsayosIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/ensayos/$slug': {
+      id: '/ensayos/$slug'
+      path: '/ensayos/$slug'
+      fullPath: '/ensayos/$slug'
+      preLoaderRoute: typeof EnsayosSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/escuelas/': {
+      id: '/escuelas/'
+      path: '/escuelas'
+      fullPath: '/escuelas/'
+      preLoaderRoute: typeof EscuelasIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/escuelas/$escuela': {
+      id: '/escuelas/$escuela'
+      path: '/escuelas/$escuela'
+      fullPath: '/escuelas/$escuela'
+      preLoaderRoute: typeof EscuelasEscuelaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/temas/': {
+      id: '/temas/'
+      path: '/temas'
+      fullPath: '/temas/'
+      preLoaderRoute: typeof TemasIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/temas/$tema': {
+      id: '/temas/$tema'
+      path: '/temas/$tema'
+      fullPath: '/temas/$tema'
+      preLoaderRoute: typeof TemasTemaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  EnsayosSlugRoute: EnsayosSlugRoute,
+  EscuelasEscuelaRoute: EscuelasEscuelaRoute,
+  TemasTemaRoute: TemasTemaRoute,
+  EnsayosIndexRoute: EnsayosIndexRoute,
+  EscuelasIndexRoute: EscuelasIndexRoute,
+  TemasIndexRoute: TemasIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
