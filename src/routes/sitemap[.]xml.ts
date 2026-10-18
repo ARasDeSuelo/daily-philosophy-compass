@@ -7,7 +7,7 @@ export const Route = createFileRoute("/sitemap.xml")({
     handlers: {
       GET: ({ request }) => {
         const base = new URL(request.url).origin;
-        const urls: { loc: string; lastmod?: string }[] = [
+        const urls: { loc: string; lastmod?: string | undefined }[] = [
           { loc: "/", lastmod: posts[0]?.date },
           { loc: "/ensayos", lastmod: posts[0]?.date },
           { loc: "/temas" },
