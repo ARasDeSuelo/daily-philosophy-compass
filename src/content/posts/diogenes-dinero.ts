@@ -101,8 +101,6 @@ Cuatro acciones concretas para la próxima semana:
 3. **Calcula tu cifra de suficiente.** Siéntate con tus números y calcula cuánto necesitas al mes para vivir bien, no para impresionar a nadie. Esa cifra es tu punto de referencia: todo lo que esté por encima es margen de libertad.
 4. **Habla claro sobre dinero con alguien.** Ten una conversación honesta sobre tus gastos, tus deseos y tus miedos económicos con alguien de confianza. Practica la *parresía*: sin fingir y sin vergüenza.
 
-{{img:3}}
-
 Diógenes no pretendía que todos vivieran en un tonel. Pretendía que dejaran de creer que la felicidad estaba en la siguiente compra. Esa sigue siendo una de las ideas más subversivas que puedes llevar contigo al centro comercial.
 
 Si la presión económica se mezcla con el agotamiento laboral, te puede ayudar nuestro ensayo sobre [estoicismo y burnout](/ensayos/estoicismo-contra-el-burnout). Encontrarás más reflexiones en la sección de [dinero y ambición](/temas/dinero-y-ambicion).`,
