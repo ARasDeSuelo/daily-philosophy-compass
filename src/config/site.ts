@@ -20,7 +20,7 @@ export const site = {
     email: "",
   },
   adsense: {
-    publisherId: "", // p. ej. "ca-pub-1234567890123456"
+    publisherId: "ca-pub-3119188363951301",
     slots: { banner: "", rect: "" },
   },
   analytics: { goatcounter: "" }, // p. ej. "arasdesuelo"
