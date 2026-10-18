@@ -80,6 +80,18 @@ Hablar claro sobre el dinero, empezando por mirarte a ti mismo, es un acto cíni
 
 Si quieres profundizar en la tradición cínica, la [entrada sobre la escuela cínica de la Enciclopedia de Filosofía de Internet](https://iep.utm.edu/cynics/) ofrece una visión rigurosa de sus fuentes y su influencia posterior, incluida la que ejerció sobre el estoicismo.
 
+## La comparación es el motor oculto del gasto
+
+Hay una dimensión del consumo que Diógenes habría visto con claridad: gran parte de lo que compramos no responde a lo que necesitamos, sino a lo que tienen los demás. El valor de muchas cosas depende de la comparación. Un coche, un móvil o una casa parecen suficientes hasta que alguien cercano tiene uno mejor. Entonces, sin que nada haya cambiado en tu vida, lo tuyo parece insuficiente.
+
+Las redes sociales han multiplicado este efecto. Antes te comparabas con los vecinos, los compañeros de trabajo, la familia. Ahora te comparas con cientos de personas, muchas de las cuales muestran solo su mejor versión, cuando no directamente un estilo de vida patrocinado por marcas. Es una competición imposible de ganar, porque siempre habrá alguien con más.
+
+Los cínicos tenían una estrategia radical contra esto: la indiferencia ante la opinión ajena. Diógenes hacía en público cosas que escandalizaban a sus contemporáneos precisamente para demostrar que la aprobación social no le importaba. No hace falta llegar a esos extremos, pero la idea de fondo es útil. Cuanto menos dependes de la mirada de los demás, menos dinero necesitas gastar para sostenerla.
+
+Un ejercicio sencillo consiste en revisar tus últimas compras grandes y preguntarte, con honestidad, cuál habrías hecho igual si nadie fuera a verla nunca. Si la respuesta es que muchas no, has encontrado una de las principales fuentes de tu gasto. No es necesariamente un defecto moral; somos animales sociales y la imagen importa. Pero ser consciente de ello te da la posibilidad de elegir cuánto quieres pagar por ella.
+
+Hay también una forma positiva de este cambio. Cuando dejas de usar el consumo para mostrar quién eres, puedes empezar a gastar en lo que de verdad valoras: tiempo con personas queridas, aprender algo, experiencias que no necesitas fotografiar. El dinero deja de ser un escaparate y vuelve a ser una herramienta.
+
 ## Dónde la idea no sirve
 
 El cinismo tiene límites muy evidentes.

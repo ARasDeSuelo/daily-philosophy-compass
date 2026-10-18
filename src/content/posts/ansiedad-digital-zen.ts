@@ -76,6 +76,18 @@ Recuperar el vacío no exige grandes gestos. Basta con dejar que algunos de esos
 
 Esta relación entre atención, tiempo y sentido aparece también en otras escuelas. En el ensayo sobre [estoicismo y burnout](/ensayos/estoicismo-contra-el-burnout) verás cómo Séneca criticaba la ocupación constante, y en el de [Camus y la rutina](/ensayos/camus-absurdo-rutina), cómo la repetición puede dejar de ser condena.
 
+## La comparación constante es otra forma de distracción
+
+Hay una variante de la ansiedad digital que merece capítulo propio: la comparación. Las redes sociales te muestran a diario fragmentos cuidadosamente elegidos de la vida de otras personas. Vacaciones, logros profesionales, cuerpos en forma, casas ordenadas. Sabes, en teoría, que se trata de una selección, pero la mente no distingue tan bien entre lo que sabe y lo que ve. Cada imagen deja un pequeño poso: la sensación de que tu vida va un poco por detrás.
+
+El zen ofrece una perspectiva interesante sobre esto. Una de sus enseñanzas centrales es que la mente que compara está siempre fuera del momento presente. Comparar exige salir de lo que estás viviendo para medirlo contra otra cosa: lo que tienen otros, lo que tú tenías antes, lo que podrías tener. Es una forma de estar en otro sitio. Y por definición, mientras comparas, no estás donde estás.
+
+Los maestros zen usaban a menudo historias breves y desconcertantes, los *kōan*, para sacar al alumno de sus hábitos mentales. Muchos de ellos apuntan a la misma idea: dejar de buscar fuera lo que solo se encuentra en la experiencia directa. Cuando un monje preguntaba por el sentido profundo de las enseñanzas, el maestro podía responder señalando el ciprés del patio o invitándole a terminar su cuenco de arroz y lavarlo. La respuesta no estaba en otra parte.
+
+Aplicado a tu relación con las redes, esto sugiere un ejercicio sencillo. La próxima vez que notes la punzada de la comparación, en lugar de seguir deslizando el dedo o de castigarte por sentirla, nómbrala en silencio: "comparando". Luego vuelve a algo concreto que tengas delante, como el peso de tu cuerpo en la silla, el sonido de la calle o la temperatura del aire. No se trata de reprimir el sentimiento, sino de reconocerlo como lo que es: una película que tu mente proyecta, no una evaluación objetiva de tu vida.
+
+Con el tiempo, este pequeño gesto cambia algo. La comparación no desaparece, pero pierde parte de su poder, porque empiezas a verla venir. Y entre el estímulo y la reacción se abre, otra vez, ese espacio en el que puedes decidir qué hacer con tu atención.
+
 ## Dónde el zen no sirve
 
 Conviene ser honesto con los límites de esta propuesta.

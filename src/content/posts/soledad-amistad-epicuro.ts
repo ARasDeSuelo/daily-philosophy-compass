@@ -76,6 +76,18 @@ Esto da pistas para combatir la soledad sin grandes planes. No necesitas organiz
 
 En nuestro ensayo sobre [Diógenes y el dinero](/ensayos/diogenes-dinero-suficiente) desarrollamos una idea vecina: que necesitar poco nos hace más libres. Epicuro añade que necesitar a otros no es una debilidad, sino una forma de riqueza.
 
+## Las amistades útiles y las amistades verdaderas
+
+Epicuro fue a veces criticado por haber dado a la amistad un fundamento interesado. Si la amistad sirve para sentirnos seguros, ¿no es una forma de egoísmo? La cuestión es más sutil de lo que parece. Según las fuentes antiguas, Epicuro reconocía que la amistad empieza muchas veces por la utilidad: nos acercamos a otros porque nos ayudan o porque compartimos algo. Pero sostenía que, con el tiempo, la amistad se vuelve deseable por sí misma.
+
+Esta idea es muy útil para la soledad adulta. Mucha gente espera que los amigos aparezcan de forma espontánea, por pura afinidad, como en la infancia. Cuando eso no ocurre, concluyen que no son capaces de hacer amigos. Pero la mayoría de las amistades adultas empiezan de forma menos romántica: un compañero de trabajo con el que coincides en la pausa del café, un vecino al que ayudas con un paquete, alguien de una clase de idiomas o de un grupo de senderismo. Al principio es una relación práctica. Con el tiempo, si se cuida, se transforma.
+
+Aristóteles, en la *Ética a Nicómaco*, distinguió tres tipos de amistad: la basada en la utilidad, la basada en el placer y la basada en la virtud, es decir, en apreciar al otro por lo que es. Consideraba que esta última es la más estable y la más rara. Epicuro y Aristóteles discrepaban en muchas cosas, pero ambos coincidían en que la amistad profunda no aparece de golpe: se construye.
+
+Para alguien que se siente solo, esto tiene una implicación liberadora. No necesitas encontrar de inmediato a tu alma gemela amistosa. Basta con abrir algunas relaciones útiles o placenteras y darles tiempo. Algunas no irán más allá de la cordialidad, y eso también tiene valor. Pero otras, con los años, se convertirán en el tipo de vínculo del que hablaba Epicuro: aquel en el que confías aunque no lo necesites.
+
+Esto también exige una cierta paciencia contigo mismo. Las relaciones profundas no se fuerzan, y los primeros encuentros pueden ser torpes o superficiales. Eso no es un fracaso; es el principio normal de cualquier amistad.
+
 ## Dónde la idea no sirve
 
 El epicureísmo tiene límites que conviene reconocer.

@@ -84,6 +84,18 @@ Llevado a tu vida cotidiana, esto significa que aceptar el absurdo no es resigna
 
 Si quieres conocer con más detalle la evolución de su pensamiento, la [entrada sobre Albert Camus de la Enciclopedia de Filosofía de Stanford](https://plato.stanford.edu/entries/camus/) ofrece un recorrido riguroso. También puedes consultar la página oficial del [Premio Nobel de Literatura de 1957](https://www.nobelprize.org/prizes/literature/1957/camus/facts/), que le fue concedido.
 
+## La esperanza también puede ser una trampa
+
+Una de las afirmaciones más sorprendentes de Camus es su desconfianza hacia la esperanza. En una cultura que la trata como una virtud casi indiscutible, puede parecer extraño. Pero Camus tenía un motivo preciso: la esperanza, entendida como la espera de un sentido o una salvación futura, nos aleja del presente. Vivimos para mañana, para el fin de semana, para las vacaciones, para la jubilación, y mientras tanto el único tiempo real, el de ahora, se nos escapa.
+
+Piensa en cuántas veces has dicho "cuando acabe este proyecto", "cuando me cambie de piso", "cuando tenga más tiempo". Cada una de esas frases aplaza la vida a un momento que, cuando llega, suele traer consigo su propia lista de aplazamientos. La rutina se vuelve insoportable no tanto por lo que es como por lo que esperamos que venga a sustituirla.
+
+Camus propone algo más exigente y más luminoso: vivir sin apelar. Es decir, vivir esta vida sin necesidad de que otra cosa la justifique. Eso no significa renunciar a los planes ni a los proyectos; significa no hacer depender de ellos el valor de los días presentes. Un martes por la tarde no es una sala de espera hasta el viernes. Es tu vida, tal como está ocurriendo.
+
+En la práctica, esta idea puede transformar tu relación con la rutina. Prueba a observar durante una semana cuántas veces piensas en un futuro mejor como compensación del presente. No te juzgues por ello, simplemente toma nota. Luego, en algunos de esos momentos, pregúntate qué hay de valioso en lo que estás haciendo ahora mismo. A veces la respuesta será "nada, esto es aburrido", y está bien reconocerlo. Pero otras veces descubrirás algo que pasabas por alto: la compañía de alguien, una tarea bien hecha, un descanso merecido.
+
+Esta lucidez no elimina la monotonía. La vuelve visible. Y lo que se ve con claridad deja de dominarnos en silencio, porque podemos decidir cómo relacionarnos con ello.
+
 ## Dónde la idea no sirve
 
 El absurdismo tiene límites claros.

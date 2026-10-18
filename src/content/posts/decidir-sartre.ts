@@ -86,6 +86,18 @@ Toda decisión importante tiene una parte que no se puede calcular. No sabes có
 
 Esto conecta con otra idea existencialista: el sentido de una decisión no está fijado en el momento de tomarla. Depende de cómo la vivas. Dos personas pueden mudarse a la misma ciudad por los mismos motivos y vivir experiencias opuestas, en parte por lo que cada una hace con esa elección. Elegir no es acertar; es comprometerse.
 
+## El miedo a equivocarte esconde una idea errónea del error
+
+Gran parte de la parálisis ante una decisión procede del miedo a equivocarte. Pero ese miedo presupone algo que el existencialismo pone en duda: que existe una opción correcta y otra incorrecta, fijadas de antemano, y que tu tarea es descubrir cuál es cuál. Si las cosas fueran así, equivocarte sería como fallar una pregunta de un examen con solución.
+
+En la mayoría de las decisiones vitales no hay una respuesta escondida. Hay caminos distintos, cada uno con sus pérdidas y sus ganancias. Aceptar el trabajo en otra ciudad significa ganar unas cosas y perder otras; quedarte también. Ninguna opción te da todo. Lo que llamamos "equivocarse" suele ser, en realidad, descubrir el precio de una elección que ya sabíamos que tenía un precio.
+
+Sartre insistía en que no podemos compararnos con una versión ideal de nosotros que hubiera elegido otra cosa, porque esa versión no existe. Solo existe la persona que eligió y lo que hace a partir de ahí. Mirar atrás con la pregunta "¿y si hubiera elegido lo otro?" es una forma de imaginar una vida que nunca fue posible del todo, porque la habrías vivido con las mismas dudas, otras pérdidas y otras sorpresas.
+
+Esto no significa que todas las decisiones sean equivalentes ni que no puedas aprender de ellas. Puedes reconocer que una elección te ha llevado a un lugar que no te gusta y decidir cambiar de rumbo. Eso no demuestra que la primera decisión fuera un error absoluto; demuestra que sigues siendo libre de elegir. De hecho, para Sartre, la posibilidad de volver a elegir es la mejor prueba de la libertad.
+
+Si cambias la pregunta de "¿cuál es la opción correcta?" a "¿qué opción estoy dispuesto a sostener con mis actos?", el miedo no desaparece, pero cambia de forma. Deja de ser el temor a suspender un examen y se convierte en la responsabilidad de construir algo. Y eso, aunque exige más, paraliza bastante menos.
+
 ## Dónde la idea no sirve
 
 El existencialismo de Sartre tiene límites importantes.
