@@ -63,7 +63,7 @@ No es una exageración mística. Es la misma lógica que aplicamos sin pensarlo 
 
 {{img:1}}
 
-## La mala fe del "yo no fui"
+## La mala fe del yo no fui
 
 Sartre bautizó con un nombre muy preciso a la trampa en la que caemos cuando intentamos escurrir el bulto: la *mala fe*. No es mentir a los demás; es mentirse a uno mismo fingiendo que uno no es libre, que no hay decisión, que las cosas simplemente "ocurren". El camarero que actúa como si fuera cosa del oficio y no de su persona, el enamorado que dice que "no puede evitarlo": todos tratan de convertirse en cosa para no tener que responder de su libertad.
 
