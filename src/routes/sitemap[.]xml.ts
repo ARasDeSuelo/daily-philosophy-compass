@@ -1,12 +1,13 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { posts } from "@/content/posts";
 import { escuelas, temas } from "@/content/taxonomy";
+import { site } from "@/config/site";
 
 export const Route = createFileRoute("/sitemap.xml")({
   server: {
     handlers: {
-      GET: ({ request }) => {
-        const base = new URL(request.url).origin;
+      GET: () => {
+        const base = `https://${site.domain}`;
         const urls: { loc: string; lastmod?: string | undefined }[] = [
           { loc: "/", lastmod: posts[0]?.date },
           { loc: "/ensayos", lastmod: posts[0]?.date },
