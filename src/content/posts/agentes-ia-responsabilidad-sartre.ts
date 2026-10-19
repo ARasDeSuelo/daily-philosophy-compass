@@ -24,7 +24,7 @@ const post: Post = {
   images: [
     {
       src: i1,
-      alt: "Hombre de traje manipulando los hilos de un robot con traje que firma un documento sobre un escenario con cortinas rojas, como un titiritero que se desentiende del titirited",
+      alt: "Hombre de traje manipulando los hilos de un robot con traje que firma un documento sobre un escenario con cortinas rojas, como un titiritero que se desentiende de lo que firma",
       caption: "Dar permiso ya es actuar, aunque después mires hacia otro lado.",
     },
     {
