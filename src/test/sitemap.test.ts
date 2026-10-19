@@ -14,7 +14,10 @@ describe("Public search discovery", () => {
     const xml = await response.text();
     const urls = Array.from(xml.matchAll(/<loc>(.*?)<\/loc>/g), (match) => match[1]);
     expect(urls.length).toBeGreaterThan(posts.length);
-    for (const url of urls) expect(new URL(url).origin).toBe("https://arasdesuelo.com");
+    for (const url of urls) {
+      if (url === undefined) throw new Error("Sitemap URL is missing");
+      expect(new URL(url).origin).toBe("https://arasdesuelo.com");
+    }
     expect(urls).toContain("https://arasdesuelo.com/");
   });
 
