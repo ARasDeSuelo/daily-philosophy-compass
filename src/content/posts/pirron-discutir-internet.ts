@@ -71,7 +71,7 @@ Las plataformas viven de esa prisa. Un tema de tendencia dura horas; si quieres 
 
 Es aquí donde la retórica del enemigo se vuelve casi inevitable. Si no tienes tiempo para entender lo que piensa el otro, solo te queda imaginar por qué lo piensa. Y la explicación más rápida siempre es moral: lo piensa porque es tonto, o porque es malo. Esa es la diferencia exacta entre la crítica y el antagonismo que mide el estudio. La crítica discute lo que alguien dice. El antagonismo decide lo que alguien es.
 
-Ya hablamos en este blog de cómo la [ansiedad digital y la atención fragmentada](/ensayos/ansiedad-digital-atencion-zen) te dejan sin espacio interior. La ira de las tendencias es la otra cara de esa moneda: no solo te roban la atención, también te entregan una certeza prefabricada para que la uses como arma.
+Ya hablamos en este blog de cómo la [ansiedad digital y la atención fragmentada](/ensayos/ansiedad-digital-zen) te dejan sin espacio interior. La ira de las tendencias es la otra cara de esa moneda: no solo te roban la atención, también te entregan una certeza prefabricada para que la uses como arma.
 
 ## Pirrón de Elis, el hombre que no tenía prisa por tener razón
 
@@ -149,7 +149,7 @@ No hace falta convertirse en un sabio griego para aprovechar algo de esto. Basta
 
 **4. La primera hora sin tendencias.** Elige no mirar los temas de tendencia durante la primera hora del día. No se trata de desconectarte del mundo, sino de que tu mañana empiece con tus propias prioridades y no con la ira que alguien ha decidido que debes sentir. Puedes informarte después, con calma, en medios que expliquen en lugar de inflamar.
 
-Pirrón no te promete que vayas a tener razón más a menudo. Te promete algo más modesto y quizá más valioso: que dejarás de necesitar tenerla sobre todo, a todas horas, ante todo el mundo. En un ecosistema que convierte cada desacuerdo en una guerra, esa pequeña libertad es casi un acto de resistencia. Si quieres seguir explorando cómo gestionar el enfado y los conflictos, visita la sección de [ira y conflicto](/temas/ira-y-conflicto) o lee más sobre la escuela del [escepticismo](/escuelas/escepticismo). Y si la ira de hoy te ha dejado agotado, quizá te ayude el ensayo sobre [el burnout y los estoicos](/ensayos/burnout-estoicismo).`,
+Pirrón no te promete que vayas a tener razón más a menudo. Te promete algo más modesto y quizá más valioso: que dejarás de necesitar tenerla sobre todo, a todas horas, ante todo el mundo. En un ecosistema que convierte cada desacuerdo en una guerra, esa pequeña libertad es casi un acto de resistencia. Si quieres seguir explorando cómo gestionar el enfado y los conflictos, visita la sección de [ira y conflicto](/temas/ira-y-conflicto) o lee más sobre la escuela del [escepticismo](/escuelas/escepticismo). Y si la ira de hoy te ha dejado agotado, quizá te ayude el ensayo sobre [el burnout y los estoicos](/ensayos/estoicismo-contra-el-burnout).`,
 };
 
 export default post;

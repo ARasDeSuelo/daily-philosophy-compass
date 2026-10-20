@@ -1,5 +1,6 @@
 import { marked } from "marked";
 import type { Post } from "../types";
+import pirron from "./pirron-discutir-internet";
 import agentes from "./agentes-ia-responsabilidad-sartre";
 import burnout from "./burnout-estoicismo";
 import ansiedad from "./ansiedad-digital-zen";
@@ -9,7 +10,7 @@ import absurdo from "./camus-tiempo-absurdo";
 import diogenes from "./diogenes-dinero";
 import ia from "./ia-pensar-aristoteles";
 
-export const posts: Post[] = [agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
+export const posts: Post[] = [pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
   .filter((p) => p.date <= new Date().toISOString().slice(0, 10))
   .sort((a, b) => (a.date < b.date ? 1 : -1));
 
