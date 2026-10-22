@@ -10,8 +10,9 @@ import absurdo from "./camus-tiempo-absurdo";
 import diogenes from "./diogenes-dinero";
 import ia from "./ia-pensar-aristoteles";
 import vivienda from "./vivienda-habitar-bachelard";
+import enfermedad from "./enfermedad-seneca";
 
-export const posts: Post[] = [vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
+export const posts: Post[] = [enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
   .filter((p) => p.date <= new Date().toISOString().slice(0, 10))
   .sort((a, b) => (a.date < b.date ? 1 : -1));
 
