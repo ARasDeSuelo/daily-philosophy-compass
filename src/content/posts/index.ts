@@ -13,6 +13,7 @@ import vivienda from "./vivienda-habitar-bachelard";
 import enfermedad from "./enfermedad-seneca";
 import serbia from "./serbia-esperanza-william-james";
 import brasil from "./brasil-derrota-epicteto";
+import microsoft from "./microsoft-trabajo-nietzsche";
 
 export const posts: Post[] = [brasil, serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
   .filter((p) => p.date <= new Date().toISOString().slice(0, 10))
