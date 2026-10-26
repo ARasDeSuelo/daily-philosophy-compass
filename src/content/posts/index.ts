@@ -12,8 +12,9 @@ import ia from "./ia-pensar-aristoteles";
 import vivienda from "./vivienda-habitar-bachelard";
 import enfermedad from "./enfermedad-seneca";
 import serbia from "./serbia-esperanza-william-james";
+import brasil from "./brasil-derrota-epicteto";
 
-export const posts: Post[] = [serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
+export const posts: Post[] = [brasil, serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
   .filter((p) => p.date <= new Date().toISOString().slice(0, 10))
   .sort((a, b) => (a.date < b.date ? 1 : -1));
 
