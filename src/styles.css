@@ -152,3 +152,9 @@
   }
   .skip-link:focus { top: 1rem; }
 }
+
+/* Oculta la insignia "Edit with Lovable" en cualquier página publicada. */
+#lovable-badge {
+  display: none !important;
+}
+
