@@ -100,6 +100,14 @@ Pero la lección de Nietzsche no es «prepárate para la catástrofe». Es más 
 
 Hay también una lectura colectiva que conviene no saltarse. Que una empresa pueda prescindir de una cuarta parte de su plantilla mientras bate récords es un problema político y económico de primer orden —sobre salarios, sobre reparto, sobre qué hacemos con el tiempo que las máquinas nos devuelven— y ninguna filosofía personal lo sustituye. Nietzsche no te salva de eso; te impide añadirle, encima, una crisis de identidad innecesaria. La sociedad tendrá que responder como sociedad, y mientras tanto a ti te toca una tarea más antigua y más cercana: construir una vida que no se venga abajo cuando se cae un organigrama.
 
+## Tres preguntas para esta semana
+
+Si la noticia te ha tocado de cerca —o te ha hecho pensar—, hay tres preguntas concretas que puedes llevarte a un paseo este fin de semana, sin pantallas delante.
+
+La primera: ¿qué partes de tu semana harías aunque nadie te pagara por ellas? No es una pregunta romántica; es un detector. Lo que harías gratis señala hacia tus valores reales, los que no dependen de ningún organigrama. La segunda: ¿quién eres cuando nadie te pregunta a qué te dedicas? Piensa en cómo te presentarías en una cena donde estuviera prohibido hablar de trabajo. Si la respuesta te deja en blanco, ese blanco es información valiosa: es el solar del que hablábamos. La tercera: ¿qué hábito pequeño, tuyo y solo tuyo, podrías empezar el lunes? Nietzsche necesitó años de caminatas y cuadernos para construir una vida sin institución que la sostuviera. Tú puedes empezar con media hora al día dedicada a algo que hayas elegido sin que nadie te lo pidiera.
+
+Ninguna de las tres preguntas arregla el mercado laboral. No están para eso. Están para que, llegue o no llegue la caja de cartón, la respuesta a «quién eres» no la tenga que redactar un departamento de recursos humanos.
+
 ## El solar limpio
 
 Vuelve por un momento a la escena del principio: sesenta mil personas con una oferta sobre la mesa, una caja de cartón, un carné que pronto dejará de abrir puertas. Es una escena triste en muchos casos, y sería deshonesto adornarla. Pero también es, en sentido estricto, lo que Nietzsche llamó un solar limpio: el lugar donde ya no vale fingir que el valor viejo sigue en pie.
