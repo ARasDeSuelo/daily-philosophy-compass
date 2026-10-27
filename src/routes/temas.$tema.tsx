@@ -14,8 +14,10 @@ export const Route = createFileRoute("/temas/$tema")({
   head: ({ params }) => {
     const t = getTema(params.tema);
     if (!t) return { meta: [{ title: "Tema no encontrado" }, { name: "robots", content: "noindex" }] };
+    const h = seo({ title: `${t.label}: ensayos de filosofía práctica`, description: `${t.description} Ensayos filosóficos sobre ${t.label.toLowerCase()} con ideas aplicables a tu vida diaria.`, path: `/temas/${t.slug}` });
     return {
-      ...seo({ title: `${t.label}: ensayos de filosofía práctica`, description: `${t.description} Ensayos filosóficos sobre ${t.label.toLowerCase()} con ideas aplicables a tu vida diaria.`, path: `/temas/${t.slug}` }),
+      ...h,
+      meta: postsByTema(params.tema).length === 0 ? [...h.meta, { name: "robots", content: "noindex, follow" }] : h.meta,
       scripts: [breadcrumbLd([{ name: "Inicio", path: "/" }, { name: "Temas", path: "/temas" }, { name: t.label, path: `/temas/${t.slug}` }])],
     };
   },
