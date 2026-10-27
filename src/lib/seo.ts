@@ -16,12 +16,12 @@ export function seo(opts: { title: string; description: string; path: string; ty
       { property: "og:title", content: t },
       { property: "og:description", content: opts.description },
       { property: "og:type", content: opts.type ?? "website" },
-      { property: "og:url", content: opts.path },
+      { property: "og:url", content: `https://${site.domain}${opts.path}` },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:title", content: t },
       { name: "twitter:description", content: opts.description },
     ],
-    links: [{ rel: "canonical", href: opts.path }],
+    links: [{ rel: "canonical", href: `https://${site.domain}${opts.path}` }],
   };
 }
 
