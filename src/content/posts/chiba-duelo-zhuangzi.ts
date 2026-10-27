@@ -9,7 +9,7 @@ const post: Post = {
   slug: "chiba-duelo-zhuangzi",
   title:
     "Por qué duele la muerte de alguien a quien nunca conociste: Tetsuya Chiba, Zhuangzi y el duelo",
-  seoTitle: "Muere Tetsuya Chiba: Zhuangzi y el duelo por quien no conociste",
+  seoTitle: "Muere Tetsuya Chiba: Zhuangzi y el duelo a distancia",
   description:
     "Muere Tetsuya Chiba, autor de Ashita no Joe. ¿Por qué nos duele la muerte de alguien que no conocimos? Zhuangzi y el taoísmo enseñan a vivir el duelo sin negarlo.",
   excerpt:
