@@ -11,7 +11,7 @@ const post: Post = {
     "Por qué duele la muerte de alguien a quien nunca conociste: Tetsuya Chiba, Zhuangzi y el duelo",
   seoTitle: "Muere Tetsuya Chiba: Zhuangzi y el duelo a distancia",
   description:
-    "Muere Tetsuya Chiba, autor de Ashita no Joe. ¿Por qué nos duele la muerte de alguien que no conocimos? Zhuangzi y el taoísmo enseñan a vivir el duelo sin negarlo.",
+    "Muere Tetsuya Chiba, autor de Ashita no Joe. ¿Por qué nos duele la muerte de alguien que no conocimos? Zhuangzi enseña a vivir el duelo sin negarlo.",
   excerpt:
     "Tetsuya Chiba, el dibujante de «Ashita no Joe», ha muerto a los 87 años. Millones de lectores sienten una pena real por alguien a quien nunca vieron. El taoísmo de Zhuangzi explica ese duelo extraño y enseña a atravesarlo sin huir de él.",
   date: "2026-10-27",
