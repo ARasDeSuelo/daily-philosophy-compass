@@ -13,8 +13,10 @@ export const Route = createFileRoute("/escuelas/$escuela")({
   head: ({ params }) => {
     const e = getEscuela(params.escuela);
     if (!e) return { meta: [{ title: "Escuela no encontrada" }, { name: "robots", content: "noindex" }] };
+    const h = seo({ title: `${e.label}: qué es y cómo aplicarlo hoy`, description: `${e.description} Ensayos sobre ${e.label.toLowerCase()} (${e.thinker}) aplicados a problemas modernos.`.slice(0, 160), path: `/escuelas/${e.slug}` });
     return {
-      ...seo({ title: `${e.label}: qué es y cómo aplicarlo hoy`, description: `${e.description} Ensayos sobre ${e.label.toLowerCase()} (${e.thinker}) aplicados a problemas modernos.`.slice(0, 160), path: `/escuelas/${e.slug}` }),
+      ...h,
+      meta: postsByEscuela(params.escuela).length === 0 ? [...h.meta, { name: "robots", content: "noindex, follow" }] : h.meta,
       scripts: [breadcrumbLd([{ name: "Inicio", path: "/" }, { name: "Escuelas", path: "/escuelas" }, { name: e.label, path: `/escuelas/${e.slug}` }])],
     };
   },
