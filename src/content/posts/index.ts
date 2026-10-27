@@ -15,8 +15,9 @@ import serbia from "./serbia-esperanza-william-james";
 import brasil from "./brasil-derrota-epicteto";
 import microsoft from "./microsoft-trabajo-nietzsche";
 
+// No date filtering at module scope: Cloudflare Workers freeze the clock at 0 (1970)
+// during module init, which made every essay disappear on the server (HTTP 404).
 export const posts: Post[] = [microsoft, brasil, serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
-  .filter((p) => p.date <= new Date().toISOString().slice(0, 10))
   .sort((a, b) => (a.date < b.date ? 1 : -1));
 
 export const getPost = (slug: string) => posts.find((p) => p.slug === slug);
