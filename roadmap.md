@@ -2,4 +2,4 @@
 - [x] Contrastar el tema actual y las fuentes filosóficas.
 - [x] Crear una imagen destacada y cuatro ilustraciones internas.
 - [x] Escribir y registrar el ensayo en español.
-- [ ] Ejecutar las pruebas y comprobar la lectura directa y las imágenes.
+- [x] Ejecutar las pruebas y comprobar la lectura directa y las imágenes.
