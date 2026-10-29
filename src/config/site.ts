@@ -24,7 +24,7 @@ export const site = {
     slots: { banner: "", rect: "" },
   },
   analytics: { goatcounter: "" }, // p. ej. "arasdesuelo"
-  googleVerification: "",
+  googleVerification: "5ClDnjQ_0zJN6jeZdQsiyTWZmv334mOCqWjtBdE8mXM",
 };
 
 export const adsenseEnabled = () => site.adsense.publisherId.trim().length > 0;
