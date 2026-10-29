@@ -11,3 +11,8 @@
 
 # Pendiente
 - [ ] Ejecutar las publicaciones en Reddit (una comunidad al día).
+
+# Ensayo del 29 de octubre de 2026
+- [ ] Contrastar una noticia reciente y su lectura filosófica.
+- [ ] Crear cinco imágenes y añadir un ensayo de al menos 2000 palabras.
+- [ ] Comprobar pruebas, lectura directa, metadatos e imágenes.
