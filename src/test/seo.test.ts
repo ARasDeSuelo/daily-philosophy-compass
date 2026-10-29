@@ -24,6 +24,13 @@ describe("SEO de los ensayos", () => {
       expect(p.hero.alt.length).toBeGreaterThan(20);
     }
   });
+  it("cada imagen interna tiene ALT descriptivo", () => {
+    for (const p of posts) {
+      for (const image of p.images) {
+        expect(image.alt.trim().length, p.slug).toBeGreaterThan(20);
+      }
+    }
+  });
   it("ninguna fecha es futura", () => {
     const today = new Date().toISOString().slice(0, 10);
     for (const p of posts) expect(p.date <= today).toBe(true);
