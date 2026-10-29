@@ -18,6 +18,7 @@ import { Route as FeedDotxmlRouteImport } from './routes/feed[.]xml'
 import { Route as PrivacidadRouteImport } from './routes/privacidad'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as SobreRouteImport } from './routes/sobre'
+import { Route as CategorySplatRouteImport } from './routes/category.$'
 import { Route as EnsayosIndexRouteImport } from './routes/ensayos.index'
 import { Route as EnsayosSlugRouteImport } from './routes/ensayos.$slug'
 import { Route as EscuelasIndexRouteImport } from './routes/escuelas.index'
@@ -70,6 +71,11 @@ const SobreRoute = SobreRouteImport.update({
   path: '/sobre',
   getParentRoute: () => rootRouteImport,
 } as any)
+const CategorySplatRoute = CategorySplatRouteImport.update({
+  id: '/category/$',
+  path: '/category/$',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const EnsayosIndexRoute = EnsayosIndexRouteImport.update({
   id: '/ensayos/',
   path: '/ensayos/',
@@ -111,6 +117,7 @@ export interface FileRoutesByFullPath {
   '/privacidad': typeof PrivacidadRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/sobre': typeof SobreRoute
+  '/category/$': typeof CategorySplatRoute
   '/ensayos/$slug': typeof EnsayosSlugRoute
   '/escuelas/$escuela': typeof EscuelasEscuelaRoute
   '/temas/$tema': typeof TemasTemaRoute
@@ -128,6 +135,7 @@ export interface FileRoutesByTo {
   '/privacidad': typeof PrivacidadRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/sobre': typeof SobreRoute
+  '/category/$': typeof CategorySplatRoute
   '/ensayos/$slug': typeof EnsayosSlugRoute
   '/escuelas/$escuela': typeof EscuelasEscuelaRoute
   '/temas/$tema': typeof TemasTemaRoute
@@ -146,6 +154,7 @@ export interface FileRoutesById {
   '/privacidad': typeof PrivacidadRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/sobre': typeof SobreRoute
+  '/category/$': typeof CategorySplatRoute
   '/ensayos/$slug': typeof EnsayosSlugRoute
   '/escuelas/$escuela': typeof EscuelasEscuelaRoute
   '/temas/$tema': typeof TemasTemaRoute
@@ -165,6 +174,7 @@ export interface FileRouteTypes {
     | '/privacidad'
     | '/sitemap.xml'
     | '/sobre'
+    | '/category/$'
     | '/ensayos/$slug'
     | '/escuelas/$escuela'
     | '/temas/$tema'
@@ -182,6 +192,7 @@ export interface FileRouteTypes {
     | '/privacidad'
     | '/sitemap.xml'
     | '/sobre'
+    | '/category/$'
     | '/ensayos/$slug'
     | '/escuelas/$escuela'
     | '/temas/$tema'
@@ -199,6 +210,7 @@ export interface FileRouteTypes {
     | '/privacidad'
     | '/sitemap.xml'
     | '/sobre'
+    | '/category/$'
     | '/ensayos/$slug'
     | '/escuelas/$escuela'
     | '/temas/$tema'
@@ -217,6 +229,7 @@ export interface RootRouteChildren {
   PrivacidadRoute: typeof PrivacidadRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   SobreRoute: typeof SobreRoute
+  CategorySplatRoute: typeof CategorySplatRoute
   EnsayosSlugRoute: typeof EnsayosSlugRoute
   EscuelasEscuelaRoute: typeof EscuelasEscuelaRoute
   TemasTemaRoute: typeof TemasTemaRoute
@@ -290,6 +303,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof SobreRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/category/$': {
+      id: '/category/$'
+      path: '/category/$'
+      fullPath: '/category/$'
+      preLoaderRoute: typeof CategorySplatRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/ensayos/': {
       id: '/ensayos/'
       path: '/ensayos'
@@ -345,6 +365,7 @@ const rootRouteChildren: RootRouteChildren = {
   PrivacidadRoute: PrivacidadRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   SobreRoute: SobreRoute,
+  CategorySplatRoute: CategorySplatRoute,
   EnsayosSlugRoute: EnsayosSlugRoute,
   EscuelasEscuelaRoute: EscuelasEscuelaRoute,
   TemasTemaRoute: TemasTemaRoute,
