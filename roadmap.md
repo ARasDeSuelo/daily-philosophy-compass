@@ -7,4 +7,7 @@
 - [x] Redirigir /category/... a temas o ensayos (301).
 
 # Promoción en comunidades
-- [ ] Buscar comunidades de filosofía en español y preparar mensajes.
+- [x] Buscar comunidades de filosofía en español y preparar mensajes.
+
+# Pendiente
+- [ ] Ejecutar las publicaciones en Reddit (una comunidad al día).
