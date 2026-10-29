@@ -27,6 +27,7 @@ export function SiteFooter() {
           <ul className="mt-4 space-y-2 text-sm">
             <li><Link to="/ensayos" className="hover:underline">Todos los ensayos</Link></li>
             <li><Link to="/escuelas" className="hover:underline">Escuelas filosóficas</Link></li>
+            <li><Link to="/libros" className="hover:underline">Libros recomendados</Link></li>
             <li><Link to="/sobre" className="hover:underline">Sobre el proyecto</Link></li>
             <li><Link to="/contacto" className="hover:underline">Contacto</Link></li>
             <li><Link to="/privacidad" className="hover:underline">Privacidad</Link></li>

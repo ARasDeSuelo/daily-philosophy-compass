@@ -15,6 +15,7 @@ import { Route as AvisoLegalRouteImport } from './routes/aviso-legal'
 import { Route as ContactoRouteImport } from './routes/contacto'
 import { Route as CookiesRouteImport } from './routes/cookies'
 import { Route as FeedDotxmlRouteImport } from './routes/feed[.]xml'
+import { Route as LibrosRouteImport } from './routes/libros'
 import { Route as PrivacidadRouteImport } from './routes/privacidad'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as SobreRouteImport } from './routes/sobre'
@@ -54,6 +55,11 @@ const CookiesRoute = CookiesRouteImport.update({
 const FeedDotxmlRoute = FeedDotxmlRouteImport.update({
   id: '/feed.xml',
   path: '/feed.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LibrosRoute = LibrosRouteImport.update({
+  id: '/libros',
+  path: '/libros',
   getParentRoute: () => rootRouteImport,
 } as any)
 const PrivacidadRoute = PrivacidadRouteImport.update({
@@ -114,6 +120,7 @@ export interface FileRoutesByFullPath {
   '/contacto': typeof ContactoRoute
   '/cookies': typeof CookiesRoute
   '/feed.xml': typeof FeedDotxmlRoute
+  '/libros': typeof LibrosRoute
   '/privacidad': typeof PrivacidadRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/sobre': typeof SobreRoute
@@ -132,6 +139,7 @@ export interface FileRoutesByTo {
   '/contacto': typeof ContactoRoute
   '/cookies': typeof CookiesRoute
   '/feed.xml': typeof FeedDotxmlRoute
+  '/libros': typeof LibrosRoute
   '/privacidad': typeof PrivacidadRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/sobre': typeof SobreRoute
@@ -151,6 +159,7 @@ export interface FileRoutesById {
   '/contacto': typeof ContactoRoute
   '/cookies': typeof CookiesRoute
   '/feed.xml': typeof FeedDotxmlRoute
+  '/libros': typeof LibrosRoute
   '/privacidad': typeof PrivacidadRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/sobre': typeof SobreRoute
@@ -171,6 +180,7 @@ export interface FileRouteTypes {
     | '/contacto'
     | '/cookies'
     | '/feed.xml'
+    | '/libros'
     | '/privacidad'
     | '/sitemap.xml'
     | '/sobre'
@@ -189,6 +199,7 @@ export interface FileRouteTypes {
     | '/contacto'
     | '/cookies'
     | '/feed.xml'
+    | '/libros'
     | '/privacidad'
     | '/sitemap.xml'
     | '/sobre'
@@ -207,6 +218,7 @@ export interface FileRouteTypes {
     | '/contacto'
     | '/cookies'
     | '/feed.xml'
+    | '/libros'
     | '/privacidad'
     | '/sitemap.xml'
     | '/sobre'
@@ -226,6 +238,7 @@ export interface RootRouteChildren {
   ContactoRoute: typeof ContactoRoute
   CookiesRoute: typeof CookiesRoute
   FeedDotxmlRoute: typeof FeedDotxmlRoute
+  LibrosRoute: typeof LibrosRoute
   PrivacidadRoute: typeof PrivacidadRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   SobreRoute: typeof SobreRoute
@@ -280,6 +293,13 @@ declare module '@tanstack/react-router' {
       path: '/feed.xml'
       fullPath: '/feed.xml'
       preLoaderRoute: typeof FeedDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/libros': {
+      id: '/libros'
+      path: '/libros'
+      fullPath: '/libros'
+      preLoaderRoute: typeof LibrosRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/privacidad': {
@@ -362,6 +382,7 @@ const rootRouteChildren: RootRouteChildren = {
   ContactoRoute: ContactoRoute,
   CookiesRoute: CookiesRoute,
   FeedDotxmlRoute: FeedDotxmlRoute,
+  LibrosRoute: LibrosRoute,
   PrivacidadRoute: PrivacidadRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   SobreRoute: SobreRoute,

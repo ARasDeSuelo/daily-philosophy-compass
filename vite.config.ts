@@ -15,7 +15,7 @@ export default defineConfig({
   tanstackStart: {
     // Redirect TanStack Start's bundled server entry to src/server.ts (our SSR error wrapper).
     server: { entry: "server" },
-    pages: [{ path: "/" }, { path: "/ensayos" }, ...essaySlugs.map((slug) => ({ path: `/ensayos/${slug}` }))],
+    pages: [{ path: "/" }, { path: "/ensayos" }, { path: "/libros" }, ...essaySlugs.map((slug) => ({ path: `/ensayos/${slug}` }))],
     prerender: { enabled: true, autoStaticPathsDiscovery: false },
   },
 });
