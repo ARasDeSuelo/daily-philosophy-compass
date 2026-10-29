@@ -13,6 +13,10 @@
 - [ ] Ejecutar las publicaciones en Reddit (una comunidad al día).
 
 # Ensayo del 29 de octubre de 2026
-- [ ] Contrastar una noticia reciente y su lectura filosófica.
-- [ ] Crear cinco imágenes y añadir un ensayo de al menos 2000 palabras.
-- [ ] Comprobar pruebas, lectura directa, metadatos e imágenes.
+- [x] Contrastar un debate documentado y su lectura filosófica (sin noticia verificable del día).
+- [x] Crear cinco imágenes y añadir un ensayo de al menos 2000 palabras.
+- [x] Comprobar pruebas, lectura directa, metadatos e imágenes.
+
+# Recomendaciones de libros
+- [ ] Añadir una categoría adicional de recomendaciones de libros y acceso desde la navegación.
+- [ ] Comprobar su contenido, enlaces y presentación.
