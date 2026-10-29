@@ -25,6 +25,11 @@ export const Route = createFileRoute("/temas/")({
             <p className="mt-4 text-xs font-medium text-tema">{postsByTema(t.slug).length} ensayos</p>
           </Link>
         ))}
+        <Link to="/libros" className="card-soft border-l-4 border-primary p-6">
+          <h2 className="font-serif text-xl font-semibold text-foreground">Libros recomendados</h2>
+          <p className="mt-2 text-sm text-muted-foreground">Lecturas de filosofía para profundizar en las preguntas de tu vida cotidiana.</p>
+          <p className="mt-4 text-xs font-medium text-primary">Explorar la biblioteca →</p>
+        </Link>
       </div>
     </>
   ),

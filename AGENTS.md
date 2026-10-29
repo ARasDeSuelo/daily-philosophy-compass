@@ -16,3 +16,4 @@
 - Sitemap URLs use the public domain from site config, never the request origin, so previews cannot leak into search discovery; lastmod uses content dates only.
 - Never read the clock (new Date(), Date.now()) at module scope in server-reachable code: Workers freeze time at 0 during init, which once emptied the essay list in production.
 - Essay pages are prerendered; vite.config.ts reads slugs from src/content/posts/*.ts so new essays are included automatically.
+- Book recommendations are static typed content in src/content/books.ts, displayed at /libros and linked as an additional category rather than an essay taxonomy entry, so they do not create empty essay listings.
