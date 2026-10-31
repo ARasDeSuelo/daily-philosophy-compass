@@ -18,10 +18,11 @@ import chiba from "./chiba-duelo-zhuangzi";
 import urda from "./urda-espera-camus";
 import ghosting from "./ghosting-confianza-epicuro";
 import emociones from "./emociones-ia-merleau-ponty";
+import blocus from "./blocus-saqueos-aristoteles";
 
 // No date filtering at module scope: Cloudflare Workers freeze the clock at 0 (1970)
 // during module init, which made every essay disappear on the server (HTTP 404).
-export const posts: Post[] = [emociones, urda, ghosting, chiba, microsoft, brasil, serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
+export const posts: Post[] = [blocus, emociones, urda, ghosting, chiba, microsoft, brasil, serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
   .sort((a, b) => (a.date < b.date ? 1 : -1));
 
 export const getPost = (slug: string) => posts.find((p) => p.slug === slug);
