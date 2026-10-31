@@ -20,3 +20,9 @@
 # Recomendaciones de libros
 - [x] Añadir una categoría adicional de recomendaciones de libros y acceso desde la navegación.
 - [x] Comprobar su contenido, enlaces y presentación.
+
+# Ensayo del 31 de octubre de 2026
+- [x] Contrastar la actualidad (convocatorias de saqueo Blocus, detenciones, comercios blindados) con fuentes de RTVE, Interior, France 24, Guardian/LSE y Stanford.
+- [x] Crear una imagen destacada y cuatro ilustraciones internas.
+- [x] Escribir y registrar el ensayo en español (2812 palabras, tema ira y conflicto, escuela ética de la virtud).
+- [x] Ejecutar las pruebas y comprobar lectura directa, metadatos, imágenes, listas de tema/escuela y mapa del sitio.
