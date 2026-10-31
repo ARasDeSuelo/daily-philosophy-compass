@@ -109,7 +109,7 @@ No necesitas afiliarte a nada ni escribirle a un diputado. Puedes empezar con cu
 
 2. **Pon tu nombre en algo, aunque sea pequeño.** Una plataforma de personas inquilinas, una asociación de vecinos, una cooperativa de consumo, un sindicato, un coro, una AMPA: cualquier cosa con lista, acta y alguien a quien se pueda llamar. Si no puedes firmar algo, no puedes exigir algo. Y si lo único que firmas es un mensaje anónimo, lo que has firmado es que otro decida por ti.
 
-3. **Deja de amplificar calendajes ajenos.** No reenvíes la convocatoria con una fecha, una hora y una calle, aunque sea «para ver qué pasa»: estás haciendo gratis el trabajo de reclutamiento de alguien que no va a responder. Si quieres que el enfado circule, comparte un análisis, un reportaje local, una cifra o el nombre de una campaña que sí tenga a quién reclamar. La visibilidad del enfado no es el objetivo; que alguien ceda, sí.
+3. **Deja de amplificar calendarios ajenos.** No reenvíes la convocatoria con una fecha, una hora y una calle, aunque sea «para ver qué pasa»: estás haciendo gratis el trabajo de reclutamiento de alguien que no va a responder. Si quieres que el enfado circule, comparte un análisis, un reportaje local, una cifra o el nombre de una campaña que sí tenga a quién reclamar. La visibilidad del enfado no es el objetivo; que alguien ceda, sí.
 
 4. **Repara lo que tienes cerca, hoy.** Si en tu barrio hubo un escaparate roto, compra ahí esta semana, ayuda a barrer, o pasa por la asociación vecinal. No es un gesto de consolación: es la única manera de que la persona que perdió algo te cuente lo que los análisis no dicen. Lo contrario de la multitud no es la indiferencia, es un público pequeño con nombre y dirección.
 
