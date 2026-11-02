@@ -61,7 +61,7 @@ Su eficacia no es una opinión de mercado. La OCU recuerda que, hasta la fecha, 
 
 Tampoco es una moda frívola: en el reportaje de elDiario, José Manuel, 54 años, descubrió su diabetes tipo 2 tras un infarto y, con semaglutida, redujo a la mitad su consumo de insulina y perdió 16 kilos en un año, más del diez por ciento de su peso. [1](https://www.eldiario.es/sociedad/ozempic-consolida-farmaco-financiado-sanidad-publica_1_13615063.html) Eso no es estética: es un cuerpo que ha dejado de estar en riesgo.
 
-Ahora viene lo incómodo. Que una técnica resuelva el «cómo» con una eficacia notable no significa que te haya dicho el «para qué». Y la eficacia, precisamente por ser tan buena, anestesia la pregunta: si el método funciona, parece inútil discutir el objetivo. mucha gente que usa estos fármacos fuera de indicación no es ignorante; sabe que funcionan, y por eso los usa. El problema no es la información. Es que una herramienta fiable nos permite no formular nunca lo que queremos, porque ya no hace falta quererlo con claridad: basta con inyectarse.
+Ahora viene lo incómodo. Que una técnica resuelva el «cómo» con una eficacia notable no significa que te haya dicho el «para qué». Y la eficacia, precisamente por ser tan buena, anestesia la pregunta: si el método funciona, parece inútil discutir el objetivo. Mucha gente que usa estos fármacos fuera de indicación no es ignorante; sabe que funcionan, y por eso los usa. El problema no es la información. Es que una herramienta fiable nos permite no formular nunca lo que queremos, porque ya no hace falta quererlo con claridad: basta con inyectarse.
 
 ## Epicuro separó tres deseos; solo dos tienen un borde natural
 
@@ -71,7 +71,7 @@ La diferencia no es moral, es estructural, y está en el borde. El hambre es un 
 
 De ahí la Doctrina Principal 15, una frase que cabría en un posavaso y que resume toda una economía del deseo: «La riqueza que exige la naturaleza tiene un límite y es fácil de conseguir; la que exigen las opiniones vacías se prolonga hasta el infinito.» [5](https://lexundria.com/epic_kd/15/psa)
 
-Epicuro no está diciendo «conformate con poco» ni recomendando ascetismo. Está describiendo una máquina: un deseo sin borde natural no se puede satisfacer, solo se puede aplazar. En los Dicho Vaticanos lo formula con una crudeza notable: la ingratitud del alma —no la necesidad del cuerpo— es lo que nos vuelve codiciosos de una variedad infinita en nuestra manera de vivir. [6](https://www.epicurism.info/etexts/VS.html)
+Epicuro no está diciendo «conformate con poco» ni recomendando ascetismo. Está describiendo una máquina: un deseo sin borde natural no se puede satisfacer, solo se puede aplazar. En los Dichos Vaticanos lo formula con una crudeza notable: la ingratitud del alma —no la necesidad del cuerpo— es lo que nos vuelve codiciosos de una variedad infinita en nuestra manera de vivir. [6](https://www.epicurism.info/etexts/VS.html)
 
 Cuando eso se aplica al peso, la pregunta útil deja de ser «¿debería adelgazar?» y pasa a ser otra, mucho más difícil de contestar con honestidad: ¿cuál de los tres deseos está hablando ahora mismo? Porque si es el primero, tienes un problema médico con un tratamiento razonable. Si es el segundo, tienes un gusto y un margen. Y si es el tercero, tienes una opinión ajena instalada dentro de tu cuerpo, y ninguna báscula va a poder con ella.
 
@@ -111,7 +111,7 @@ Epicuro no resuelve la discusión, pero la reordena. Un sistema que gasta cada v
 
 Conviene decir dónde se rompe este razonamiento, porque es fácil usarlo para culpabilizar a quien está mal.
 
-**Primero: la obesidad es una enfermedad.** Decirle a una persona con un índice de masa corporal de 40 y prediabetes que «revise sus deseos» es cruel y falso. Un fármaco recetado, indicado y seguido puede salvarle la vida o devolverle una vida funcional, y nadie con autoridad moral le va a sustituir esa ayuda por una reflexión sobre la opinio vacía.
+**Primero: la obesidad es una enfermedad.** Decirle a una persona con un índice de masa corporal de 40 y prediabetes que «revise sus deseos» es cruel y falso. Un fármaco recetado, indicado y seguido puede salvarle la vida o devolverle una vida funcional, y nadie con autoridad moral le va a sustituir esa ayuda por una reflexión sobre la opinión vacía.
 
 **Segundo: no hay un único límite natural para todos los cuerpos.** Hay personas que, varios kilos por debajo de su peso actual, se sienten y están objetivamente mejor: duermen, se mueven, controlan su glucemia. Pedirles que se acepten tal como están es pedirles que renuncien a una ayuda legítima.
 
