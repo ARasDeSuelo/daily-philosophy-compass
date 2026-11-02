@@ -32,3 +32,8 @@
 - [x] Crear una imagen destacada y cuatro ilustraciones internas.
 - [x] Escribir y registrar el ensayo en español (tema decisiones y dudas, escuela pragmatismo de William James).
 - [x] Ejecutar las pruebas y comprobar lectura directa, metadatos, imágenes y mapa del sitio.
+
+# Ensayo del 2 de noviembre de 2026 (Día de Difuntos)
+- [x] Tema de actualidad: Todos los Santos / Día de Difuntos / Día de Muertos; fuentes UNESCO, Stanford, Ministerio de Sanidad (024).
+- [x] Imagen destacada y cuatro internas; ensayo registrado (tiempo y mortalidad, budismo zen).
+- [x] Pruebas SEO y carga directa.
