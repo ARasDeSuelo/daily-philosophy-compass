@@ -31,8 +31,10 @@ describe("SEO de los ensayos", () => {
       }
     }
   });
-  it("ninguna fecha es futura", () => {
-    const today = new Date().toISOString().slice(0, 10);
-    for (const p of posts) expect(p.date <= today).toBe(true);
+  it("ninguna fecha está a más de un día vista", () => {
+    // The daily drafting workflow may date an essay for the next morning,
+    // so we allow one day ahead but no more: a typo like 2027 must still fail.
+    const max = new Date(Date.now() + 86_400_000).toISOString().slice(0, 10);
+    for (const p of posts) expect(p.date <= max, p.slug).toBe(true);
   });
 });

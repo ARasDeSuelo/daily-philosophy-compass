@@ -96,13 +96,13 @@ Es la misma lógica que encontraste en [el ensayo sobre Sartre y la responsabili
 
 Sería deshonesto venderte la esperanza práctica como una llave maestra. Tiene límites claros, y conocerlos es parte de usarla bien.
 
-Primero: no sustituye a la información. James nunca defendió creer contra las pruebas, sino actuar donde las pruebas todavía no pueden existir. Si el médico te da un diagnóstico, la esperanza no consiste en negarlo, sino en decidir cómo vas a vivir con él, algo que exploraste en [el ensayo sobre Séneca y la enfermedad](/ensayos/enfermedad-seneca). Confundir la esperanza con la negación de los hechos no es pragmatismo: es magia.
+Primero: no sustituye a la información. James nunca defendió creer contra las pruebas, sino actuar donde las pruebas todavía no pueden existir. Si el médico te da un diagnóstico, la esperanza no consiste en negarlo, sino en decidir cómo vas a vivir con él, algo que exploraste en [el ensayo sobre Séneca y la enfermedad](/ensayos/miedo-diagnostico-enfermedad-seneca). Confundir la esperanza con la negación de los hechos no es pragmatismo: es magia.
 
 Segundo: no garantiza la victoria. Por cada movimiento que gana hay muchos que pierden, y James lo sabía. El meliorismo no promete que el mundo mejore; dice que la mejora es posible y que tu acto es una de sus condiciones. Actuar sin garantías significa exactamente eso: aceptar que puedes hacerlo todo bien y aun así no ver el resultado. La recompensa inmediata no es el triunfo, sino no haberte convertido en cómplice de lo que te indigna.
 
 Tercero: puede volverse autoengaño colectivo si se desconecta de la realidad. Una comunidad que solo se repite consignas y no corrige sus errores no practica la esperanza, practica el eslogan. El pragmatismo exige revisar los resultados: si una táctica no funciona, se cambia. Los estudiantes serbios pasaron de los bloqueos a las marchas, de las marchas a la lista electoral. La esperanza práctica es terca en el fin y flexible en los medios.
 
-Y cuarto: no todo depende de ti, y fingir lo contrario es otra forma de agotamiento. Si ya estás al límite, lo primero no es sumarte a una causa sino recuperarte; de eso habla [el ensayo sobre el estoicismo y el burnout](/ensayos/burnout-estoicismo). La esperanza como práctica incluye descansar, porque una vela apagada no enciende a ninguna otra.
+Y cuarto: no todo depende de ti, y fingir lo contrario es otra forma de agotamiento. Si ya estás al límite, lo primero no es sumarte a una causa sino recuperarte; de eso habla [el ensayo sobre el estoicismo y el burnout](/ensayos/estoicismo-contra-el-burnout). La esperanza como práctica incluye descansar, porque una vela apagada no enciende a ninguna otra.
 
 {{img:3}}
 

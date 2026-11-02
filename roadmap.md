@@ -37,3 +37,9 @@
 - [x] Tema de actualidad: Todos los Santos / Día de Difuntos / Día de Muertos; fuentes UNESCO, Stanford, Ministerio de Sanidad (024).
 - [x] Imagen destacada y cuatro internas; ensayo registrado (tiempo y mortalidad, budismo zen).
 - [x] Pruebas SEO y carga directa.
+
+# Ensayo del 3 de noviembre de 2026
+- [x] Contrastar la actualidad (semaglutida: 3 de cada 100 € de la receta pública, 2025) con elDiario.es, Ministerio de Sanidad, OCU, OMS, EMA/AEMPS y SEFYNC.
+- [x] Imagen destacada y cuatro ilustraciones; ensayo de 2642 palabras (dinero y ambición, epicureísmo).
+- [x] Pruebas SEO, lectura directa, canonical, datos estructurados y mapa del sitio.
+- [x] Reparar los enlaces internos rotos entre ensayos (usaban el nombre de archivo en lugar del slug).

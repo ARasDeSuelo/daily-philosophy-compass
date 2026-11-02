@@ -107,7 +107,7 @@ También sería injusto decirle a quien vive una ruptura importante que basta co
 
 Si el miedo te impide dormir, afecta de manera persistente a tu trabajo o te lleva a evitar todos los encuentros que deseas, pedir ayuda no contradice la autonomía. Tampoco tienes que llamar trauma a cualquier decepción ni diagnosticar a quien dejó de escribirte. Puedes describir un comportamiento dañino sin inventar una explicación clínica. A veces lo más honesto es admitir que no conoces sus motivos y que, aun así, tienes información suficiente para dejar de esperar.
 
-Por último, Epicuro no resuelve los problemas del diseño de las aplicaciones, la presión de compararte o las condiciones que dificultan conocer gente. Una práctica individual no cambia por sí sola un entorno. Su utilidad es más modesta: recuperar un margen para elegir cómo participas. Como ocurre al [decidir sin garantías](/ensayos/decidir-sartre), ese margen no elimina lo incierto, pero permite que lo incierto no decida todo por ti.
+Por último, Epicuro no resuelve los problemas del diseño de las aplicaciones, la presión de compararte o las condiciones que dificultan conocer gente. Una práctica individual no cambia por sí sola un entorno. Su utilidad es más modesta: recuperar un margen para elegir cómo participas. Como ocurre al [decidir sin garantías](/ensayos/decidir-sin-garantias-sartre), ese margen no elimina lo incierto, pero permite que lo incierto no decida todo por ti.
 
 {{img:3}}
 

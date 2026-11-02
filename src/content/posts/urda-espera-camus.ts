@@ -41,7 +41,7 @@ Antes de hablar de quienes miran, conviene reconocer lo que viven quienes espera
 
 Lo más difícil de esa oscilación es que no admite trabajo. En el duelo, por terrible que sea, hay algo que hacer: despedirse, recordar, reorganizar la vida. En la espera no. Cualquier gesto parece una traición a una de las dos posibilidades. Prepararse para lo peor se siente como abandonar a quien quizá sigue vivo; aferrarse a lo mejor se siente como negarse a ver. Por eso tanta gente en esas salas dice lo mismo: que lo que falta es información.
 
-Hemos escrito aquí sobre [el duelo por alguien que no conociste](/ensayos/chiba-duelo-zhuangzi) y sobre [la enfermedad que irrumpe sin pedir permiso](/ensayos/enfermedad-seneca). La espera de Urda es otra cosa. Es el instante anterior, el umbral en el que todavía no hay nombre para lo que está ocurriendo. Y es, precisamente, el lugar donde el acompañamiento importa más y donde las palabras sirven menos.
+Hemos escrito aquí sobre [el duelo por alguien que no conociste](/ensayos/chiba-duelo-zhuangzi) y sobre [la enfermedad que irrumpe sin pedir permiso](/ensayos/miedo-diagnostico-enfermedad-seneca). La espera de Urda es otra cosa. Es el instante anterior, el umbral en el que todavía no hay nombre para lo que está ocurriendo. Y es, precisamente, el lugar donde el acompañamiento importa más y donde las palabras sirven menos.
 
 {{img:1}}
 
@@ -51,7 +51,7 @@ Camus nació en Argelia en 1913 y murió en 1960 en un accidente de tráfico. Su
 
 Una tragedia como la de Urda es lo absurdo en estado puro. Alguien se subió a un tren una mañana corriente, con su perro en un transportín o con un libro a medias, y esa mañana corriente se rompió. No había una lección escondida en ello. Cualquier intento de dar un significado cósmico a esas muertes —un castigo, un plan, una prueba— ofende a quienes las sufren. Camus fue muy duro con ese tipo de explicaciones: le parecían una manera de escapar de la realidad en lugar de mirarla.
 
-Pero lo interesante de Camus no es el diagnóstico, que ya hemos explorado al hablar de [el tiempo y lo absurdo](/ensayos/camus-tiempo-absurdo). Lo interesante es lo que propone hacer después. Ante lo que no tiene sentido, dice, no caben ni la resignación ni la huida. Cabe la rebeldía, que en su obra significa algo muy concreto: negarse a aceptar el mal como si fuera normal y, a la vez, actuar dentro de él con lucidez.
+Pero lo interesante de Camus no es el diagnóstico, que ya hemos explorado al hablar de [el tiempo y lo absurdo](/ensayos/camus-absurdo-rutina). Lo interesante es lo que propone hacer después. Ante lo que no tiene sentido, dice, no caben ni la resignación ni la huida. Cabe la rebeldía, que en su obra significa algo muy concreto: negarse a aceptar el mal como si fuera normal y, a la vez, actuar dentro de él con lucidez.
 
 ## La peste: la decencia como oficio
 
@@ -69,7 +69,7 @@ Si eres de los que miran desde lejos, quizá hayas pasado las últimas horas con
 
 Camus tiene algo que decir también aquí. En *La peste*, uno de los peligros que más le preocupan no es la indiferencia, sino una forma de implicación estéril: la de quien se emociona, se indigna y comenta, pero no cambia nada de su conducta. La emoción, sin traducirse en algo, se convierte en un espectáculo para uno mismo. No es culpa de nadie; es lo que ocurre cuando una catástrofe llega por una pantalla diseñada para que no dejes de mirar.
 
-Además, el consumo compulsivo de información en estos días tiene un coste para las propias familias. Circulan listas no confirmadas, fotos del lugar, teorías sobre culpables y filtraciones de datos de la investigación. Los propios maquinistas han lamentado la difusión de información confidencial. Cada rumor que se comparte puede llegar a alguien que todavía no sabe nada y que lo lee en el peor momento posible. Ya hablamos de cómo [discutir en internet acaba envenenándote](/ensayos/pirron-discutir-internet); en una tragedia, el veneno también alcanza a otros.
+Además, el consumo compulsivo de información en estos días tiene un coste para las propias familias. Circulan listas no confirmadas, fotos del lugar, teorías sobre culpables y filtraciones de datos de la investigación. Los propios maquinistas han lamentado la difusión de información confidencial. Cada rumor que se comparte puede llegar a alguien que todavía no sabe nada y que lo lee en el peor momento posible. Ya hablamos de cómo [discutir en internet acaba envenenándote](/ensayos/discutir-en-internet-pirron-epoje); en una tragedia, el veneno también alcanza a otros.
 
 La alternativa no es apagarlo todo y fingir que no ha pasado. Es pasar de espectador a participante, aunque sea en una escala mínima. Y para eso Camus ofrece una pista: busca cuál es tu oficio en esta situación.
 

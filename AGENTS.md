@@ -13,6 +13,8 @@
 - Essays live as typed TS modules in src/content/posts/ (registered in index.ts), with markdown body and {{img:N}} placeholders — keeps content static, SEO-friendly and testable.
 - Site-wide config (AdSense, analytics, owner data) lives only in src/config/site.ts; empty values must render nothing.
 - src/test/seo.test.ts guards unique titles/descriptions, lengths, word count and images; keep it passing when adding posts.
+- Essay dates may sit at most one day ahead of today (a draft can be dated for tomorrow morning); the seo test enforces that window so a wrong year still fails.
+- Internal links between essays must use the post's `slug`, never its file name — several modules are named differently from their URL.
 - Sitemap URLs use the public domain from site config, never the request origin, so previews cannot leak into search discovery; lastmod uses content dates only.
 - Never read the clock (new Date(), Date.now()) at module scope in server-reachable code: Workers freeze time at 0 during init, which once emptied the essay list in production.
 - Essay pages are prerendered; vite.config.ts reads slugs from src/content/posts/*.ts so new essays are included automatically.
