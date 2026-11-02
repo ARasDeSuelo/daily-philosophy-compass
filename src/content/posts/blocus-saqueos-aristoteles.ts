@@ -83,7 +83,7 @@ Proudhon resumía la provocación en la frase «la propiedad es un robo». Nadie
 
 Aristóteles tenía una idea que sirve de contrapeso: la ciudad no existe para intercambiar bienes, sino para vivir bien en común, y por eso, dice en la *Ética a Nicómaco*, los legisladores se preocupan más de la amistad que de la justicia, porque la amistad es lo que mantiene unida la comunidad. [5](https://plato.stanford.edu/entries/aristotle-ethics/) El saqueo no redistribuye nada: retira a unas personas la confianza de que otras van a respetar su puerta. Y la confianza es el único activo que un barrio pobre no puede comprar.
 
-Si buscas el mismo problema desde otro lado, este sitio ya lo trata: la [ira y el conflicto en internet](/ensayos/discutir-en-internet-pirron-epoje) tienen una lógica parecida —la distancia convierte a la otra persona en pantalla—, y el [dinero desde el cinismo griego](/ensayos/diogenes-dinero) muestra que despreciar el objeto es una crítica mucho más incómoda que quedarse con él. También puedes leer [habitar una casa que no puedes pagar](/ensayos/vivienda-habitar-bachelard), porque el agravio que alimenta estas noches es real aunque la respuesta no lo sea.
+Si buscas el mismo problema desde otro lado, este sitio ya lo trata: la [ira y el conflicto en internet](/ensayos/discutir-en-internet-pirron-epoje) tienen una lógica parecida —la distancia convierte a la otra persona en pantalla—, y el [dinero desde el cinismo griego](/ensayos/diogenes-dinero-suficiente) muestra que despreciar el objeto es una crítica mucho más incómoda que quedarse con él. También puedes leer [habitar una casa que no puedes pagar](/ensayos/vivienda-habitar-bachelard), porque el agravio que alimenta estas noches es real aunque la respuesta no lo sea.
 
 {{img:3}}
 

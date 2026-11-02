@@ -68,7 +68,7 @@ Cuando alguien dice «es imposible que haya perdido», está diciendo en realida
 
 La negación tiene un precio triple. El primero es temporal: mientras discutes con lo que ya pasó, no vives lo que está pasando. El país, la empresa, tu familia siguen adelante; tú te quedas anclado en la noche del domingo, repitiendo el escrutinio en tu cabeza. El segundo precio es moral: quien no acepta perder acaba necesitando un culpable, y la búsqueda de culpables degrada todo lo que toca. Primero son las urnas, después los jueces, después los medios, después los propios votantes. La conspiración crece porque tiene que crecer: cada dato nuevo es una amenaza a la historia que te protege. El tercer precio es práctico, y es el que más te interesa: la energía gastada en negar es energía robada a lo que sí depende de ti. Bolsonaro podría estar preparando la oposición, cuidando a sus votantes, construyendo la próxima candidatura. Todo eso está en su mano. La anulación del resultado, no.
 
-Esto no es un problema de políticos. Es el mismo mecanismo que te hace reabrir el correo del rechazo buscando el error, releer la conversación buscando la frase que lo cambiaría todo, apostar más para recuperar lo perdido. La negación es una deuda que se paga con la propia vida, y es la pasión que mejor describe lo que exploraste en [el ensayo sobre la ira en internet](/ensayos/pirron-discutir-internet): el conflicto se alimenta de la convicción de que la realidad te debe otra cosa.
+Esto no es un problema de políticos. Es el mismo mecanismo que te hace reabrir el correo del rechazo buscando el error, releer la conversación buscando la frase que lo cambiaría todo, apostar más para recuperar lo perdido. La negación es una deuda que se paga con la propia vida, y es la pasión que mejor describe lo que exploraste en [el ensayo sobre la ira en internet](/ensayos/discutir-en-internet-pirron-epoje): el conflicto se alimenta de la convicción de que la realidad te debe otra cosa.
 
 {{img:1}}
 
@@ -92,13 +92,13 @@ Es una pregunta seria porque la derrota revela. En la victoria todos somos gener
 
 Esto tiene una consecuencia democrática que va más allá de Brasil. Una democracia no se sostiene con ganadores magnánimos, sino con perdedores que aceptan perder. Es literalmente la regla del juego: el poder se entrega porque quien lo suelta confía en que podrá volver a competir. Cuando un perdedor rompe esa regla —como vimos en otros países en los últimos años— no solo daña a su rival: daña la posibilidad misma de que haya una próxima vez justa. Aceptar la derrota no es una cortesía hacia el ganador. Es un servicio a todos los que competirán después, incluido uno mismo. La [victoria de Lula con un país partido en dos y un Congreso hostil](https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election) necesitará exactamente eso: adversarios que disputen sin negar.
 
-Y en tu vida pasa igual, a otra escala. Cada vez que pierdes algo y lo aceptas con entereza, estás enseñando a la gente que te rodea —tus hijos, tu equipo, tus amigos— cómo se pierde. Cada vez que niegas, estás enseñando lo contrario. El carácter, como viste en [el ensayo sobre Aristóteles y la inteligencia artificial](/ensayos/ia-pensar-aristoteles), no se declara: se practica.
+Y en tu vida pasa igual, a otra escala. Cada vez que pierdes algo y lo aceptas con entereza, estás enseñando a la gente que te rodea —tus hijos, tu equipo, tus amigos— cómo se pierde. Cada vez que niegas, estás enseñando lo contrario. El carácter, como viste en [el ensayo sobre Aristóteles y la inteligencia artificial](/ensayos/ia-pensar-por-ti-aristoteles), no se declara: se practica.
 
 ## Lo que Epicteto no te pide
 
 Para usar esta idea sin engañarte, conviene dejar claros sus límites.
 
-Primero: aceptar no es no sentir. Epicteto no te pide que no te duela. El dolor ante la pérdida es natural y negarlo es otra forma de mentira, la misma trampa que señalaba [el ensayo sobre Séneca y la enfermedad](/ensayos/enfermedad-seneca): la fortaleza estoica no es insensibilidad, es no dejar que el dolor decida por ti. Llora la derrota. Después, levántate.
+Primero: aceptar no es no sentir. Epicteto no te pide que no te duela. El dolor ante la pérdida es natural y negarlo es otra forma de mentira, la misma trampa que señalaba [el ensayo sobre Séneca y la enfermedad](/ensayos/miedo-diagnostico-enfermedad-seneca): la fortaleza estoica no es insensibilidad, es no dejar que el dolor decida por ti. Llora la derrota. Después, levántate.
 
 Segundo: aceptar no es no impugnar. Si hay pruebas de fraude, los cauces legales existen y usarlos es legítimo. Lo que Epicteto condenaría no es el recurso, sino el estado mental: presentar el recurso *mientras* aceptas que el tribunal decidirá, no como ritual para sostener la ficción de que no perdiste. La diferencia está en si puedes perder también el recurso.
 

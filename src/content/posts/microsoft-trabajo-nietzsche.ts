@@ -66,7 +66,7 @@ Hay una escena que se repite en cada gran despido, y probablemente se repita mil
 
 Nietzsche diría que ahí hay una confusión que conviene deshacer cuanto antes. Que tu identidad dependiera de tu puesto no era un hecho natural: era un hábito cultural, una costumbre que te ahorraba el trabajo de decidir quién eras. La empresa te daba un nombre, un horario, una misión y hasta un carné con tu foto. A cambio, tú le dabas la pregunta más importante de tu vida. Era un trato cómodo mientras duró. Pero todo lo que te ahorra decidir te vuelve más frágil, porque el día que desaparece —y desaparece— te deja sin respuesta y sin práctica para construir una.
 
-Esto conecta con algo que ya exploraste en [el ensayo sobre el agotamiento](/ensayos/burnout-estoicismo): el burnout no es solo cansancio, es la factura de haber puesto el centro de tu vida en un lugar que no controlas. Y también con lo que contaba [Diógenes sobre el dinero](/ensayos/diogenes-dinero): necesitar poco de las instituciones es una forma de libertad. Nietzsche añade el paso siguiente, más difícil: cuando la institución se retira, no basta con resistir. Hay que crear.
+Esto conecta con algo que ya exploraste en [el ensayo sobre el agotamiento](/ensayos/estoicismo-contra-el-burnout): el burnout no es solo cansancio, es la factura de haber puesto el centro de tu vida en un lugar que no controlas. Y también con lo que contaba [Diógenes sobre el dinero](/ensayos/diogenes-dinero-suficiente): necesitar poco de las instituciones es una forma de libertad. Nietzsche añade el paso siguiente, más difícil: cuando la institución se retira, no basta con resistir. Hay que crear.
 
 {{img:1}}
 
@@ -86,9 +86,9 @@ La expresión «crear tus propios valores» suena a hazaña de superhombre, y es
 
 Empieza por una pregunta que casi nadie se hace en serio: ¿qué harías con tus mañanas si nadie te diera un título por ello? No lo que harías por dinero ni por prestigio, sino lo que harías porque la actividad misma te parece digna de tu tiempo. Para unos será cuidar, para otros construir, enseñar, cultivar, escribir, arreglar cosas. La respuesta no tiene que ser rentable ni impresionante. Tiene que ser tuya, que es justo lo que el empleo de por vida te ahorraba averiguar.
 
-Sigue con una práctica que Nietzsche llamó «llegar a ser lo que eres»: mirar tu propia vida como un material, no como un veredicto. Los quince años en la empresa no fueron un error ni una identidad perdida; fueron aprendizaje, contactos, oficio, cicatrices útiles. El creador de valores no reniega de su pasado: lo reordena al servicio de un proyecto que ahora sí elige. Es la misma operación que describía [Sartre con la libertad](/ensayos/decidir-sartre): no eliges tu situación, pero eliges sin excusas lo que haces con ella.
+Sigue con una práctica que Nietzsche llamó «llegar a ser lo que eres»: mirar tu propia vida como un material, no como un veredicto. Los quince años en la empresa no fueron un error ni una identidad perdida; fueron aprendizaje, contactos, oficio, cicatrices útiles. El creador de valores no reniega de su pasado: lo reordena al servicio de un proyecto que ahora sí elige. Es la misma operación que describía [Sartre con la libertad](/ensayos/decidir-sin-garantias-sartre): no eliges tu situación, pero eliges sin excusas lo que haces con ella.
 
-Y termina con algo que Nietzsche practicó literalmente en sus años sin empleo: una disciplina cotidiana pequeña y sostenida. Él caminaba horas cada día y escribía cada mañana, sin jefe, sin plazo y sin público. No lo hacía por productividad; lo hacía porque una vida con forma propia necesita hábitos propios. Aristóteles lo habría reconocido al instante —como viste en [el ensayo sobre pensar por ti mismo](/ensayos/ia-pensar-aristoteles), el carácter se construye con actos repetidos, no con declaraciones.
+Y termina con algo que Nietzsche practicó literalmente en sus años sin empleo: una disciplina cotidiana pequeña y sostenida. Él caminaba horas cada día y escribía cada mañana, sin jefe, sin plazo y sin público. No lo hacía por productividad; lo hacía porque una vida con forma propia necesita hábitos propios. Aristóteles lo habría reconocido al instante —como viste en [el ensayo sobre pensar por ti mismo](/ensayos/ia-pensar-por-ti-aristoteles), el carácter se construye con actos repetidos, no con declaraciones.
 
 {{img:2}}
 
@@ -120,7 +120,7 @@ Nietzsche escribió *Así habló Zaratustra* en ráfagas, caminando solo entre S
 
 ---
 
-*Fuentes de la noticia: [Euronews](https://www.euronews.com/2026/10/26) y [El País](https://elpais.com/hemeroteca/2026-10-26/2/). Sobre Nietzsche, la [Enciclopedia de Filosofía de Stanford](https://plato.stanford.edu/entries/nietzsche/). Si este tema te interesa, sigue con [el agotamiento y los estoicos](/ensayos/burnout-estoicismo), [Diógenes y el dinero](/ensayos/diogenes-dinero), [Sartre y las decisiones](/ensayos/decidir-sartre) o [Camus y el tiempo](/ensayos/camus-tiempo-absurdo).*
+*Fuentes de la noticia: [Euronews](https://www.euronews.com/2026/10/26) y [El País](https://elpais.com/hemeroteca/2026-10-26/2/). Sobre Nietzsche, la [Enciclopedia de Filosofía de Stanford](https://plato.stanford.edu/entries/nietzsche/). Si este tema te interesa, sigue con [el agotamiento y los estoicos](/ensayos/estoicismo-contra-el-burnout), [Diógenes y el dinero](/ensayos/diogenes-dinero-suficiente), [Sartre y las decisiones](/ensayos/decidir-sin-garantias-sartre) o [Camus y el tiempo](/ensayos/camus-absurdo-rutina).*
 `,
 };
 
