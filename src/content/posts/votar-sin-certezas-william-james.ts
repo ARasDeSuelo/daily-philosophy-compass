@@ -9,7 +9,7 @@ const post: Post = {
   slug: "votar-sin-certezas-william-james",
   title: "Votar sin certezas: qué hacer cuando ninguna opción te convence del todo",
   seoTitle: "Votar sin certezas: decidir cuando nada te convence",
-  description: "Mañana hay elecciones de medio mandato en EE. UU. y dentro de unas semanas, en España. William James explica cómo decidir bien cuando ninguna opción te da garantías.",
+  description: "Mañana hay elecciones de medio mandato en EE. UU. y pronto, en España. William James explica cómo decidir bien cuando ninguna opción te da garantías.",
   excerpt: "Millones de personas votan mañana en Estados Unidos y muchas lo harán sin estar seguras. La duda ante las urnas no es un fallo tuyo: es la condición normal de decidir algo que importa. William James dejó un método para esos días.",
   date: "2026-11-02",
   tema: "decisiones-y-dudas",
