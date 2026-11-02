@@ -10,7 +10,7 @@ const post: Post = {
   title: "Ozempic y el cuerpo que nunca está terminado: qué deseas cuando quieres pesar menos",
   seoTitle: "Ozempic y el cuerpo que nunca está terminado",
   description:
-    "La semaglutida ya se lleva 3 de cada 100 euros de la receta pública en España. Epicuro propone una pregunta mejor que «¿cuánto debo pesar?»: qué clase de deseo persigues.",
+    "La semaglutida ya se lleva 3 de cada 100 euros de la receta pública. Epicuro propone una pregunta mejor que «¿cuánto debo pesar?»: qué deseo persigues.",
   excerpt:
     "Tres de cada cien euros que la sanidad pública gasta en recetas se van en un solo fármaco que, además de tratar una enfermedad, remodela cuerpos. El dato es de este lunes. La pregunta que viene detrás es antigua y muy incómoda.",
   date: "2026-11-03",
