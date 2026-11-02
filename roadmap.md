@@ -26,3 +26,9 @@
 - [x] Crear una imagen destacada y cuatro ilustraciones internas.
 - [x] Escribir y registrar el ensayo en español (2812 palabras, tema ira y conflicto, escuela ética de la virtud).
 - [x] Ejecutar las pruebas y comprobar lectura directa, metadatos, imágenes, listas de tema/escuela y mapa del sitio.
+
+# Ensayo del 2 de noviembre de 2026
+- [x] Contrastar la actualidad (midterms de EE. UU. del 3-N, proclamación de candidaturas del 29-N en España) con Reuters, EFE y Stanford.
+- [x] Crear una imagen destacada y cuatro ilustraciones internas.
+- [x] Escribir y registrar el ensayo en español (tema decisiones y dudas, escuela pragmatismo de William James).
+- [ ] Ejecutar las pruebas y comprobar lectura directa, metadatos, imágenes y mapa del sitio.
