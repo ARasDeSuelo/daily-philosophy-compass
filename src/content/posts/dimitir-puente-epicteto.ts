@@ -10,7 +10,7 @@ const post: Post = {
   title: "Dimitir sin ser culpable: lo que la renuncia de Óscar Puente enseña sobre el papel que te toca",
   seoTitle: "Dimitir sin ser culpable: Puente y Epicteto",
   description:
-    "Óscar Puente dimitió «tenga o no responsabilidad directa». Epicteto explica por qué a veces irse es la última tarea bien hecha de un papel, también en tu trabajo.",
+    "Óscar Puente dimitió «tenga o no responsabilidad directa». Epicteto explica por qué irse puede ser la última tarea bien hecha de un cargo.",
   excerpt:
     "Un ministro ha dimitido diciendo que quizá no tenga la culpa, pero que no puede seguir. Parece una contradicción. Para un estoico de hace diecinueve siglos era justo lo contrario: la forma más clara de entender qué es un cargo.",
   date: "2026-11-04",

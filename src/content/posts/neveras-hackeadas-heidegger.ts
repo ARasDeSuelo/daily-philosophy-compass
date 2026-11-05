@@ -10,7 +10,7 @@ const post: Post = {
   title: "Neveras hackeadas: qué descubres de tu vida cuando las cosas dejan de funcionar",
   seoTitle: "Neveras hackeadas y el martillo roto de Heidegger",
   description:
-    "Ciberataques subieron a 50 °C las neveras de supermercados en diez países. Heidegger explica por qué solo vemos las cosas cuando fallan y qué hacer con ese miedo.",
+    "Ciberataques pusieron a 50 °C neveras de supermercados en diez países. Heidegger explica por qué solo vemos las cosas cuando fallan.",
   excerpt:
     "Nadie piensa en la nevera del supermercado hasta que alguien, desde muy lejos, la pone a 50 grados. Lo que ha pasado esta semana en Europa es un caso perfecto de una idea de Heidegger: el mundo solo aparece cuando se rompe.",
   date: "2026-11-04",
@@ -115,7 +115,7 @@ Si la noticia de las neveras te ha dejado una pequeña inquietud, puedes convert
 
 1. **Haz el inventario de tus martillos invisibles.** Recorre tu casa y anota qué objetos están conectados a internet: la tele, el router, el altavoz, la cámara, el robot aspirador, quizá la caldera o la nevera. No juzgues, solo mira. La mayoría de la gente descubre que tiene más de los que creía. Ese descubrimiento es, en pequeño, lo mismo que vivió Europa el lunes, pero sin perder nada.
 2. **Pregúntate qué falla si falla.** Para cada objeto, una línea: si deja de funcionar o alguien lo controla, ¿qué pasa? «La tele: nada grave». «La cerradura: no puedo entrar en casa». «La cámara: alguien ve mi salón». Esta pregunta separa la ansiedad general del riesgo concreto, que suele ser mucho más manejable.
-3. **Cuida lo básico sin obsesionarte.** El INCIBE recomienda cambiar las contraseñas que traen de fábrica los dispositivos, mantenerlos actualizados y desactivar las funciones de acceso remoto que no uses. [9](https://www.incibe.es/ciudadania/tematicas/internet-de-las-cosas) Son tres gestos que cuestan una tarde y reducen mucho los riesgos. No necesitas ser experto; necesitas que tus herramientas dejen de ser cajas negras.
+3. **Cuida lo básico sin obsesionarte.** El INCIBE recomienda cambiar las contraseñas que traen de fábrica los dispositivos, mantenerlos actualizados y desactivar las funciones de acceso remoto que no uses. [9](https://www.incibe.es/ciudadania) Son tres gestos que cuestan una tarde y reducen mucho los riesgos. No necesitas ser experto; necesitas que tus herramientas dejen de ser cajas negras.
 4. **Mantén una pequeña despensa de serenidad.** Un poco de comida que no necesite frío, agua, una linterna, una llave física de casa en un sitio seguro. No por catastrofismo, sino por *Gelassenheit*: para poder decir «sí» a la tecnología sin que tu tranquilidad dependa por entero de ella. La Unión Europea, de hecho, ya recomienda a los ciudadanos tener un kit básico para 72 horas ante crisis. [10](https://commission.europa.eu/topics/preparedness_en)
 
 El martillo de Heidegger se rompió en un taller imaginario de la Selva Negra hace casi un siglo. Las neveras se rompieron el lunes en Bruselas, en Estocolmo, en Tallin. Entre una cosa y otra ha cambiado casi todo, salvo la lección: lo que funciona bien nos vuelve ciegos, y la ceguera solo se cura mirando. Mejor hacerlo un miércoles tranquilo que la próxima vez que un número en una pantalla marque 50 grados.
