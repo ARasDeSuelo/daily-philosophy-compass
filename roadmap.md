@@ -43,3 +43,4 @@
 - [x] Imagen destacada y cuatro ilustraciones; ensayo de 2642 palabras (dinero y ambición, epicureísmo).
 - [x] Pruebas SEO, lectura directa, canonical, datos estructurados y mapa del sitio.
 - [x] Reparar los enlaces internos rotos entre ensayos (usaban el nombre de archivo en lugar del slug).
+- [x] 2026-11-04: ensayos Puente/Epicteto y neveras hackeadas/Heidegger (borradores, pendientes de publicar)
