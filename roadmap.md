@@ -44,3 +44,9 @@
 - [x] Pruebas SEO, lectura directa, canonical, datos estructurados y mapa del sitio.
 - [x] Reparar los enlaces internos rotos entre ensayos (usaban el nombre de archivo en lugar del slug).
 - [x] 2026-11-04: ensayos Puente/Epicteto y neveras hackeadas/Heidegger (borradores, pendientes de publicar)
+
+# Dos ensayos del 11 de noviembre de 2026
+- [ ] Contrastar dos temas de actualidad y sus fuentes.
+- [ ] Crear cinco imágenes originales para cada ensayo.
+- [ ] Escribir y registrar dos ensayos en español de al menos 2000 palabras cada uno.
+- [ ] Verificar SEO, lectura directa, imágenes y mapa del sitio.

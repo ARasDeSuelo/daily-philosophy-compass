@@ -24,10 +24,12 @@ import difuntos from "./difuntos-impermanencia-zen";
 import ozempic from "./ozempic-cuerpo-epicuro";
 import dimitir from "./dimitir-puente-epicteto";
 import neveras from "./neveras-hackeadas-heidegger";
+import cop31 from "./cop31-taoismo";
+import soltero from "./11-11-diogenes";
 
 // No date filtering at module scope: Cloudflare Workers freeze the clock at 0 (1970)
 // during module init, which made every essay disappear on the server (HTTP 404).
-export const posts: Post[] = [neveras, dimitir, ozempic, difuntos, votar, blocus, emociones, urda, ghosting, chiba, microsoft, brasil, serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
+export const posts: Post[] = [cop31, soltero, neveras, dimitir, ozempic, difuntos, votar, blocus, emociones, urda, ghosting, chiba, microsoft, brasil, serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
   .sort((a, b) => (a.date < b.date ? 1 : -1));
 
 export const getPost = (slug: string) => posts.find((p) => p.slug === slug);
