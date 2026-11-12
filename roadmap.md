@@ -55,4 +55,4 @@
 - [x] Contrastar la actualidad (huelga general 11N por vivienda y salarios, guerra de cifras, balance EFE/Euronews/El Plural) con Hannah Arendt (trabajo vs. acción).
 - [x] Crear una imagen destacada y cuatro ilustraciones internas.
 - [x] Escribir y registrar el ensayo en español (tema agotamiento y trabajo, escuela fenomenología).
-- [ ] Ejecutar las pruebas y comprobar lectura directa, metadatos e imágenes.
+- [x] Ejecutar las pruebas y comprobar lectura directa, metadatos e imágenes.
