@@ -50,3 +50,9 @@
 - [ ] Crear cinco imágenes originales para cada ensayo.
 - [ ] Escribir y registrar dos ensayos en español de al menos 2000 palabras cada uno.
 - [ ] Verificar SEO, lectura directa, imágenes y mapa del sitio.
+
+# Ensayo del 12 de noviembre de 2026
+- [x] Contrastar la actualidad (huelga general 11N por vivienda y salarios, guerra de cifras, balance EFE/Euronews/El Plural) con Hannah Arendt (trabajo vs. acción).
+- [x] Crear una imagen destacada y cuatro ilustraciones internas.
+- [x] Escribir y registrar el ensayo en español (tema agotamiento y trabajo, escuela fenomenología).
+- [ ] Ejecutar las pruebas y comprobar lectura directa, metadatos e imágenes.
