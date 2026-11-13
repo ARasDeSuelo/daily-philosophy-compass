@@ -8,7 +8,7 @@ import i4 from "@/assets/posts/huelga-arendt/4.jpg";
 const post: Post = {
   slug: "huelga-general-11n-arendt-trabajar-actuar",
   title: "Huelga general: lo que cambia cuando dejas de trabajar y empiezas a actuar",
-  seoTitle: "Huelga general 11N y Hannah Arendt: trabajar no es actuar",
+  seoTitle: "Huelga general 11N y Arendt: trabajar no es actuar",
   description: "La huelga general del 11 de noviembre llenó las calles bajo la lluvia. Hannah Arendt ayuda a entender qué pasa cuando alguien deja de trabajar y empieza a actuar.",
   excerpt: "Ayer España vivió su primera huelga general en catorce años y hoy discute las cifras. Arendt distinguió trabajar para vivir de actuar en común: esa diferencia explica mejor la jornada que cualquier recuento.",
   date: "2026-11-12",
