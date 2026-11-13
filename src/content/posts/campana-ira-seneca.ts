@@ -9,7 +9,7 @@ const post: Post = {
   slug: "campana-29n-ira-seneca",
   title: "La campaña que te quiere enfadado: Séneca y la ira como combustible electoral",
   seoTitle: "Campaña electoral 29N y Séneca: la ira como combustible",
-  description: "Arranca la campaña del 29-N, una de las más polarizadas en años. Séneca explica por qué la ira es el combustible favorito de la política y cómo no dejarte quemar.",
+  description: "Arranca la campaña del 29-N, una de las más polarizadas en años. Séneca explica por qué la ira es el combustible de la política y cómo no dejarte quemar.",
   excerpt: "Hoy empieza la campaña del 29-N y con ella dos semanas de mítines, encuestas y enfrentamiento. Séneca dedicó un tratado entero a la ira: sus consejos sirven para atravesar una campaña sin que te la metan en el bolsillo.",
   date: "2026-11-13",
   tema: "ira-y-conflicto",
