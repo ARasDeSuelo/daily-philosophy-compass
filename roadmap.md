@@ -55,7 +55,7 @@
 - [x] Contrastar la actualidad (arranque de la campaña electoral del 29-N, polarización, entrevistas de Jordi Wild, IPC 4,9 %) con RTVE, El Español, EFE/Infobae, ABC y Stanford.
 - [x] Crear una imagen destacada y cuatro ilustraciones internas.
 - [x] Escribir y registrar el ensayo en español (tema ira y conflicto, escuela estoicismo, Séneca y De la ira).
-- [ ] Ejecutar las pruebas y comprobar lectura directa, metadatos e imágenes.
+- [x] Ejecutar las pruebas y comprobar lectura directa, metadatos e imágenes.
 
 # Ensayo del 12 de noviembre de 2026
 - [x] Contrastar la actualidad (huelga general 11N por vivienda y salarios, guerra de cifras, balance EFE/Euronews/El Plural) con Hannah Arendt (trabajo vs. acción).
