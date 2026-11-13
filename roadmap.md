@@ -46,10 +46,16 @@
 - [x] 2026-11-04: ensayos Puente/Epicteto y neveras hackeadas/Heidegger (borradores, pendientes de publicar)
 
 # Dos ensayos del 11 de noviembre de 2026
-- [ ] Contrastar dos temas de actualidad y sus fuentes.
-- [ ] Crear cinco imágenes originales para cada ensayo.
-- [ ] Escribir y registrar dos ensayos en español de al menos 2000 palabras cada uno.
-- [ ] Verificar SEO, lectura directa, imágenes y mapa del sitio.
+- [x] Contrastar dos temas de actualidad y sus fuentes.
+- [x] Crear cinco imágenes originales para cada ensayo.
+- [x] Escribir y registrar dos ensayos en español de al menos 2000 palabras cada uno.
+- [x] Verificar SEO, lectura directa, imágenes y mapa del sitio.
+
+# Ensayo del 13 de noviembre de 2026
+- [x] Contrastar la actualidad (arranque de la campaña electoral del 29-N, polarización, entrevistas de Jordi Wild, IPC 4,9 %) con RTVE, El Español, EFE/Infobae, ABC y Stanford.
+- [x] Crear una imagen destacada y cuatro ilustraciones internas.
+- [x] Escribir y registrar el ensayo en español (tema ira y conflicto, escuela estoicismo, Séneca y De la ira).
+- [x] Ejecutar las pruebas y comprobar lectura directa, metadatos e imágenes.
 
 # Ensayo del 12 de noviembre de 2026
 - [x] Contrastar la actualidad (huelga general 11N por vivienda y salarios, guerra de cifras, balance EFE/Euronews/El Plural) con Hannah Arendt (trabajo vs. acción).
