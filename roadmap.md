@@ -62,3 +62,8 @@
 - [x] Crear una imagen destacada y cuatro ilustraciones internas.
 - [x] Escribir y registrar el ensayo en español (tema agotamiento y trabajo, escuela fenomenología).
 - [x] Ejecutar las pruebas y comprobar lectura directa, metadatos e imágenes.
+
+# Ensayo del 14 de noviembre de 2026
+- [ ] Contrastar el Día Mundial de la Diabetes y la lectura de Beauvoir.
+- [ ] Crear cinco imágenes y registrar un ensayo de al menos 2000 palabras.
+- [ ] Verificar SEO, lectura directa, imágenes y mapa del sitio.
