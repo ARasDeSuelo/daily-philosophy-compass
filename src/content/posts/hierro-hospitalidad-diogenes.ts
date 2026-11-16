@@ -28,7 +28,7 @@ A muchos kilómetros, otra persona ve esa llegada desde el teléfono. Le preocup
 
 El 16 de noviembre, el balance del Ministerio del Interior recogido por EFE contabilizaba 11.037 llegadas irregulares a Canarias entre el 1 y el 15 de noviembre, a bordo de 106 embarcaciones precarias. El dato abarcaba hasta el día anterior y mostraba una concentración especialmente intensa en El Hierro. No describe a todas las personas ni explica por sí solo qué respuesta conviene, pero sí indica la magnitud de una emergencia que no puede tratarse como ruido de fondo. [1](https://efe.com/espana/2026-11-16/canarias-personas-migrantes-llegadas-noviembre/)
 
-Frente a esa realidad, Diógenes de Sinope ofrece una frase incómoda: «ciudadano del mundo». No ofrece un plan de acogida ni una frontera administrada por filosofos. Ofrece una pregunta que todavía desarma: ¿por qué el lugar de nacimiento debería fijar el límite de tu consideración moral? Y, justo después, aparece otra pregunta igual de necesaria: ¿cómo evitas que una idea universal tan amplia termine ignorando las necesidades concretas de una isla y de quienes llegan a ella?
+Frente a esa realidad, Diógenes de Sinope ofrece una frase incómoda: «ciudadano del mundo». No ofrece un plan de acogida ni una frontera administrada por filósofos. Ofrece una pregunta que todavía desarma: ¿por qué el lugar de nacimiento debería fijar el límite de tu consideración moral? Y, justo después, aparece otra pregunta igual de necesaria: ¿cómo evitas que una idea universal tan amplia termine ignorando las necesidades concretas de una isla y de quienes llegan a ella?
 
 {{img:0}}
 

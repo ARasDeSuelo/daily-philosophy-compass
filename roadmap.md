@@ -71,4 +71,4 @@
 # Ensayo del 16 de noviembre de 2026
 - [x] Contrastar la emergencia migratoria en El Hierro con EFE, RTVE y ACNUR; revisar búsquedas y el cosmopolitismo de Diógenes y Kant con fuentes académicas.
 - [x] Crear una imagen destacada y cuatro ilustraciones internas; registrar un ensayo sobre hospitalidad y comunidad.
-- [ ] Verificar pruebas SEO, enlaces, lectura directa, imágenes y mapa del sitio; queda en vista previa, sin publicar.
+- [x] Verificar las seis pruebas SEO, 2538 palabras, enlaces, lectura directa HTTP 200, imágenes, metadatos y mapa del sitio; queda en vista previa, sin publicar.
