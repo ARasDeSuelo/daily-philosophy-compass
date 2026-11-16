@@ -67,3 +67,8 @@
 - [x] Contrastar el Día Mundial de la Diabetes con fuentes de la OMS y Beauvoir con Stanford; revisar búsquedas en España y páginas posicionadas (sin evidencia de ser la tendencia más buscada).
 - [x] Crear cinco imágenes y registrar un ensayo de 2466 palabras, fechado el 14 de noviembre UTC.
 - [x] Verificar las seis pruebas SEO, lectura directa HTTP 200, imágenes, enlaces, móvil y mapa del sitio; queda en vista previa, sin publicar.
+
+# Ensayo del 16 de noviembre de 2026
+- [x] Contrastar la emergencia migratoria en El Hierro con EFE, RTVE y ACNUR; revisar búsquedas y el cosmopolitismo de Diógenes y Kant con fuentes académicas.
+- [x] Crear una imagen destacada y cuatro ilustraciones internas; registrar un ensayo sobre hospitalidad y comunidad.
+- [x] Verificar las seis pruebas SEO, 2538 palabras, enlaces, lectura directa HTTP 200, imágenes, metadatos y mapa del sitio; queda en vista previa, sin publicar.
