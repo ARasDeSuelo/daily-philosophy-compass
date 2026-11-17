@@ -72,3 +72,8 @@
 - [x] Contrastar la emergencia migratoria en El Hierro con EFE, RTVE y ACNUR; revisar búsquedas y el cosmopolitismo de Diógenes y Kant con fuentes académicas.
 - [x] Crear una imagen destacada y cuatro ilustraciones internas; registrar un ensayo sobre hospitalidad y comunidad.
 - [x] Verificar las seis pruebas SEO, 2538 palabras, enlaces, lectura directa HTTP 200, imágenes, metadatos y mapa del sitio; queda en vista previa, sin publicar.
+
+# Ensayo del 17 de noviembre de 2026
+- [x] Contrastar la subida del SMI para 2027 con el Ministerio de Trabajo, EFE, posiciones sindicales y fuentes de Aristóteles.
+- [x] Crear una imagen destacada y cuatro ilustraciones internas; registrar un ensayo sobre salario, medios materiales y vida buena.
+- [x] Verificar las seis pruebas SEO, 2685 palabras, enlaces, lectura directa HTTP 200, cinco imágenes, metadatos y mapa del sitio; queda en vista previa, sin publicar.
