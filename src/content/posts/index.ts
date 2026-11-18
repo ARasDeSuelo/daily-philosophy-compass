@@ -31,10 +31,11 @@ import campana from "./campana-ira-seneca";
 import diabetes from "./diabetes-beauvoir";
 import hierro from "./hierro-hospitalidad-diogenes";
 import salario from "./smi-aristoteles";
+import shenzhen from "./shenzhen-epicuro";
 
 // No date filtering at module scope: Cloudflare Workers freeze the clock at 0 (1970)
 // during module init, which made every essay disappear on the server (HTTP 404).
-export const posts: Post[] = [salario, hierro, diabetes, campana, huelga, cop31, soltero, neveras, dimitir, ozempic, difuntos, votar, blocus, emociones, urda, ghosting, chiba, microsoft, brasil, serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
+export const posts: Post[] = [shenzhen, salario, hierro, diabetes, campana, huelga, cop31, soltero, neveras, dimitir, ozempic, difuntos, votar, blocus, emociones, urda, ghosting, chiba, microsoft, brasil, serbia, enfermedad, vivienda, pirron, agentes, ia, burnout, ansiedad, soledad, decidir, absurdo, diogenes]
   .sort((a, b) => (a.date < b.date ? 1 : -1));
 
 export const getPost = (slug: string) => posts.find((p) => p.slug === slug);
