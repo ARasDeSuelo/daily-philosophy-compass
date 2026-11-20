@@ -32,6 +32,7 @@ import diabetes from "./diabetes-beauvoir";
 import hierro from "./hierro-hospitalidad-diogenes";
 import salario from "./smi-aristoteles";
 import shenzhen from "./shenzhen-epicuro";
+import gta6 from "./gta6-nietzsche";
 
 // No date filtering at module scope: Cloudflare Workers freeze the clock at 0 (1970)
 // during module init, which made every essay disappear on the server (HTTP 404).
