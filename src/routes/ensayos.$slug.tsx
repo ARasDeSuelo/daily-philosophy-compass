@@ -20,7 +20,7 @@ export const Route = createFileRoute("/ensayos/$slug")({
     const post = loaderData ? getPost(loaderData.slug) : undefined;
     if (!post) return { meta: [{ title: "Ensayo no encontrado" }, { name: "robots", content: "noindex" }] };
     const tema = getTema(post.tema);
-    const h = seo({ title: post.seoTitle, description: post.description, path: `/ensayos/${params.slug}`, type: "article" });
+    const h = seo({ title: post.seoTitle, description: post.description, path: `/ensayos/${params.slug}`, type: "article", image: post.hero.src, imageAlt: post.hero.alt });
     return {
       ...h,
       meta: [
@@ -43,6 +43,7 @@ export const Route = createFileRoute("/ensayos/$slug")({
             publisher: { "@type": "Organization", name: site.name },
             mainEntityOfPage: `https://${site.domain}/ensayos/${post.slug}`,
             articleSection: tema?.label,
+            image: post.hero.src.startsWith("http") ? post.hero.src : `https://${site.domain}${post.hero.src.startsWith("/") ? post.hero.src : "/" + post.hero.src}`,
           }),
         },
         breadcrumbLd([
