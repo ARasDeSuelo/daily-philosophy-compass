@@ -80,6 +80,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { src: "https://www.googletagmanager.com/gtm.js?id=GTM-5H865CLX", async: true },
       { children: "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());" },
     ];
+    if (site.analytics.ga4MeasurementId) scripts.push({ src: `https://www.googletagmanager.com/gtag/js?id=${site.analytics.ga4MeasurementId}`, async: true });
+    if (site.analytics.ga4MeasurementId) scripts.push({ type: "text/javascript", children: `window.dataLayer = window.dataLayer || []; function gtag(){window.dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${site.analytics.ga4MeasurementId}');` });
     if (adsenseEnabled())
       scripts.push({
         src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsense.publisherId}`,
