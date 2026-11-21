@@ -77,6 +77,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     if (adsenseEnabled()) meta.push({ name: "google-adsense-account", content: site.adsense.publisherId });
     const scripts: { src?: string; async?: boolean; crossOrigin?: "anonymous"; type?: string; children?: string; "data-goatcounter"?: string }[] = [
       { type: "application/ld+json", children: JSON.stringify(websiteLd) },
+      { src: "https://www.googletagmanager.com/gtm.js?id=GTM-5H865CLX", async: true },
+      { children: "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());" },
     ];
     if (adsenseEnabled())
       scripts.push({
