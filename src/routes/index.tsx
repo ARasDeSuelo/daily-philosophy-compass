@@ -12,7 +12,7 @@ export const Route = createFileRoute("/")({
     const h = seo({
       title: `${site.name}: filosofía aplicada a problemas de hoy`,
       description: site.description,
-      path: "/",
+      path: "/",\n      image: "/social-card.svg",\n      imageAlt: "A ras de suelo: filosofía aplicada a problemas de hoy",
     });
     return { ...h, meta: [{ title: `${site.name} — ${site.tagline}` }, ...h.meta.slice(1)] };
   },

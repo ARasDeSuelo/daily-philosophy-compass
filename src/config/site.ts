@@ -23,7 +23,7 @@ export const site = {
     publisherId: "ca-pub-3119188363951301",
     slots: { banner: "", rect: "" },
   },
-  analytics: { goatcounter: "" }, // p. ej. "arasdesuelo"
+  analytics: { goatcounter: "", ga4MeasurementId: import.meta.env.VITE_GA4_MEASUREMENT_ID ?? "" }, // configurar VITE_GA4_MEASUREMENT_ID en el entorno de despliegue
   googleVerification: "5ClDnjQ_0zJN6jeZdQsiyTWZmv334mOCqWjtBdE8mXM",
 };
 
